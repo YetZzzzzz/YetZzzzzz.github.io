@@ -25,7 +25,7 @@ I was a research intern at <i class="fas fa-building"></i> **Tencent**, working 
 Prior to this, I gained valuable research experience at <i class="fas fa-gamepad"></i> **NetEase FUXI Laboratory** focusing on LLM pre-training.
 
 <div class="quote-accent">
-During my Ph.D., my research centers on <span class="primary-gradient-text">Multimodal Learning and Application</span>, specifically investigating the alignment, fusion, and unified generalization of multimodal representations, with downstream applications in affective computing and beyond. My current and future research interests lie in <span class="primary-gradient-text">MLLM-based Applications</span>, including but not limited to exploring open-ended problems with Multimodal Large Language Models.
+My research interest lies in <span class="primary-gradient-text">Multimodal Intelligence</span>. During my Ph.D., I focused on multimodal representation alignment, fusion, and unified generalization, with applications in affective computing and robust learning under missing/noisy modalities. Going forward, I am pivoting toward <span class="primary-gradient-text">MLLM-driven Applications</span>, including world models, embodied intelligence, and open-ended multimodal reasoning.
 </div>
 
 <span class="accent-text">**I am actively seeking postdoctoral positions related to MLLM (Multimodal Large Language Models).**</span> I am especially interested in <span class="primary-gradient-text">Embodied Intelligence</span>, <span class="primary-gradient-text">World Models</span>, and <span class="primary-gradient-text">VLA (Vision-Language-Action)</span>. If there are opportunities in **Hong Kong** or **Singapore**, please do not hesitate to contact me!
@@ -34,7 +34,7 @@ During my Ph.D., my research centers on <span class="primary-gradient-text">Mult
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> Multimodal Application</h3>
     <ul>
-      <li><span class="accent-text">Affective understanding and reasoning</li>
+      <li><span class="accent-text">Affective understanding and reasoning</span></li>
       <li>Robust multimodal application under <span class="primary-gradient-text">missing and noisy</span>signals</li>
       <li>Multimodal representation <span class="accent-text">alignment</span>, <span class="accent-text">fusion</span>, and <span class="accent-text">unification</span></li>
     </ul>
@@ -173,7 +173,7 @@ During my Ph.D., my research centers on <span class="primary-gradient-text">Mult
 - <span class="accent-text">AAAI 2022 WS</span> **Yet at Factify 2022: Unimodal and bimodal roberta-based models for fact checking.** **Yan Zhuang**, Yanru Zhang. [*AAAI 2022 Workshop*](https://ceur-ws.org/Vol-3199/paper8.pdf).
 
 # <i class="fas fa-graduation-cap"></i> Educations
-- *Present*: &nbsp;<span class="accent-text">🔍 Actively seeking a postdoctoral position in **Hong Kong** or **Singapore**</span>, focusing on <span class="primary-gradient-text">MLLM</span>, <span class="primary-gradient-text">World Models</span>, <span class="primary-gradient-text">AI for Healthcare</span>, or <span class="primary-gradient-text">Embodied Intelligence</span>.
+- *Present*: &nbsp;<span class="accent-text">🔍 Actively seeking a postdoctoral position in <strong>Hong Kong</strong> or <strong>Singapore</strong></span>, focusing on <span class="primary-gradient-text">MLLM</span>, <span class="primary-gradient-text">World Models</span>, <span class="primary-gradient-text">AI for Healthcare</span>, or <span class="primary-gradient-text">Embodied Intelligence</span>.
 - *2022.09 - 2026.06*: &nbsp;Ph.D. in Computer Science and Technology, <span class="primary-gradient-text">University of Electronic Science and Technology of China</span>. Advisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>.
 - *2019.09 - 2022.06*: &nbsp;M.S. in Computer Technology, <span class="primary-gradient-text">University of Electronic Science and Technology of China</span>. Advisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>.
 - *2015.09 - 2019.06*: &nbsp;B.S. in Information and Computing Science, <span class="primary-gradient-text">Anhui Science and Technology University</span>.
