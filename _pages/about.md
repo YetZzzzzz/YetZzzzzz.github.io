@@ -21,31 +21,22 @@ redirect_from:
 
 My name is <span class="accent-text">Yan Zhuang</span>. I am a Ph.D. candidate in the [Affective Computing and Advanced Intelligence Laboratory](https://www.scse.uestc.edu.cn/info/1028/15498.htm) and [Intelligame Lab](https://intelligame.github.io/) at <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**, advised by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>. I earned my Master's degree in Computer Technology from UESTC under the guidance of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>, and my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Anhui Science and Technology University**.
 
-I was a research intern at <i class="fas fa-building"></i> **Tencent**, working on Self-Verifiable Multimodal Mathematical Reasoning (K9) using Reinforcement Learning.
+I was a research intern at <i class="fas fa-building"></i> **Tencent**, working on Multimodal Mathematical Reasoning using Reinforcement Learning.
 Prior to this, I gained valuable research experience at <i class="fas fa-gamepad"></i> **NetEase FUXI Laboratory** focusing on LLM pre-training.
 
 <div class="quote-accent">
 My research focuses on <span class="primary-gradient-text">Multimodal Learning and Reasoning</span>, with an emphasis on advancing emotion perception and classification in scenarios where textual, visual, and audio modalities are available, either fully or partially.
 </div>
 
-Feel free to reach out if you'd like to discuss research or explore potential collaboration!
+<span class="accent-text">**I am actively seeking postdoctoral positions related to MLLM (Multimodal Large Language Models).**</span> I am especially interested in <span class="primary-gradient-text">Embodied Intelligence</span>, <span class="primary-gradient-text">World Models</span>, and <span class="primary-gradient-text">VLA (Vision-Language-Action)</span>. If there are opportunities in **Hong Kong** or **Singapore**, please do not hesitate to contact me!
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> Multimodal Application</h3>
     <ul>
-      <li><span class="accent-text">Multimodal affective computing</span></li>
+      <li><span class="accent-text">Affective understanding</span> and reasoning</li>
       <li>Robust multimodal application under <span class="primary-gradient-text">data missing & noise</span></li>
       <li>Publications at <span class="accent-text">NeurIPS</span>, <span class="accent-text">ICCV</span>, <span class="accent-text">AAAI</span>, <span class="accent-text">ACM MM</span></li>
-    </ul>
-  </div>
-  
-  <div class="highlight-block floating-card">
-    <h3><i class="fas fa-brain"></i> MLLM-based Application</h3>
-    <ul>
-      <li>Multimodal LLM for <span class="accent-text">open-ended problems</span></li>
-      <li><span class="primary-gradient-text">Affective understanding</span> and reasoning</li>
-      <li>RAG security and robustness</li>
     </ul>
   </div>
   
@@ -53,22 +44,55 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <h3><i class="fas fa-robot"></i> RLVR</h3>
     <ul>
       <li><span class="accent-text">Reinforcement Learning</span> with Verifiable Rewards</li>
-      <li>Self-verifiable multimodal <span class="primary-gradient-text">math reasoning (K9)</span></li>
-      <li>Multimodal mathematical problem solving</li>
+      <li>Multimodal <span class="primary-gradient-text">mathematical problem solving</span></li>
+      <li>Math verification and reasoning</li>
+    </ul>
+  </div>
+  
+  <div class="highlight-block floating-card">
+    <h3><i class="fas fa-brain"></i> MLLM-based Application</h3>
+    <ul>
+      <li>MLLM for <span class="accent-text">Healthcare</span></li>
+      <li><span class="primary-gradient-text">World Model</span> & Embodied Intelligence</li>
+      <li>Vision-Language-Action (<span class="accent-text">VLA</span>)</li>
     </ul>
   </div>
 </div>
 
 # <i class="fas fa-fire"></i> News
-- *2026.01*: &nbsp;🎉🎉 One paper (TMDC) is accepted by The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026).
-- *2025.09*: &nbsp;🎉🎉 One paper (HME) is accepted by The 38th Conference on Neural Information Processing Systems (NeurIPS 2025).
-- *2025.07*: &nbsp;🎉🎉 One paper (CMAD) is accepted by The IEEE/CVF International Conference on Computer Vision (ICCV 2025).
+- *2026.05*: &nbsp;🎉🎉 One paper (ReNoRD) is accepted by ACM International Conference on Multimedia Retrieval (ICMR 2026).
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by <span class="accent-text">ACL 2026 Main Conference</span>.
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by Neurocomputing 2026.
+- *2026.01*: &nbsp;🎉🎉 One paper (TMDC) is accepted by The 40th Annual AAAI Conference on Artificial Intelligence (<span class="accent-text">AAAI 2026</span>).
+- *2025.09*: &nbsp;🎉🎉 One paper (HME) is accepted by The 38th Conference on Neural Information Processing Systems (<span class="accent-text">NeurIPS 2025</span>).
+- *2025.07*: &nbsp;🎉🎉 One paper (CMAD) is accepted by The IEEE/CVF International Conference on Computer Vision (<span class="accent-text">ICCV 2025</span>).
 - *2025.04*: &nbsp;🎉🎉 One paper (FAME) is accepted by ACM Multimedia 2025 (ACM MM 2025).
+- *2025.03*: &nbsp;🎉🎉 One paper (IIE) is accepted by IEEE Transactions on Multimedia (TMM 2025).
+- *2025.02*: &nbsp;🎉🎉 One paper (MLCL) is accepted by IEEE Transactions on Multimedia (TMM 2025).
+- *2025.01*: &nbsp;🎉🎉 One paper (R3DG) is accepted by Research 2025.
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing (TAFFC 2025).
+- *2025.01*: &nbsp;🎉🎉 One paper (ETS-MM) is accepted by The Web Conference 2025 (WWW 2025).
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE 2024).
 - *2024.07*: &nbsp;🎉🎉 One paper (GLoMo) is accepted by ACM Multimedia 2024 (ACM MM 2024).
 
 # <i class="fas fa-file-alt"></i> Publications 
 
 <small>(*denotes joint first-authors, <a href="https://scholar.google.com.hk/citations?user=DtOl0DkAAAAJ&hl=zh-CN" class="link-accent">Google Scholar</a>)</small>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">ACL Main 2026</div>
+    <img src='images/ACL2026.png' alt="ACL 2026 Paper" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3><a href="#" style="color: inherit; text-decoration: none;">Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation</a></h3>
+    <div class="authors">Wentao Zhang, <strong>Yan Zhuang</strong>, Zhuhang Zheng, Mingfei Zhang, Jiawen Deng, Fuji Ren</div>
+    <div class="venue">In The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main)</div>
+    <div class="links">
+      <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
@@ -118,12 +142,26 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">IEEE TMM 2025</div>
+    <img src='images/IIE.png' alt="IIE Framework" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3><a href="https://ieeexplore.ieee.org/abstract/document/11303977" style="color: inherit; text-decoration: none;">Intra-sample and Intra-modal Enhancement for Multimodal Sentiment Analysis with Missing Modalities</a></h3>
+    <div class="authors"><strong>Yan Zhuang</strong>, Yanru Zhang, Jiawen Deng, Fuji Ren</div>
+    <div class="venue">IEEE Transactions on Multimedia (TMM 2025)</div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/11303977" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/YetZzzzzz/IIE" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
+</div>
+
 - **ReNoRD: Learning from Relations under Noisy Pseudo Labels via Relational Distillation for Multimodal Sentiment.** Tiantai Zhai, **Yan Zhuang**, Fuji Ren, Jiawen Deng, Liang Luo. *ICMR 2026*.
-- **Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation.** Wentao Zhang, **Yan Zhuang**, Zhuhang Zheng, Mingfei Zhang, Jiawen Deng, Fuji Ren. *ACL Main 2026*.
 - **Decoupled Hypergraph Modeling for Multimodal Sentiment Analysis.** Yanping Huang, Jiawen Deng, **Yan Zhuang**, Jiali You, Qian Liu, Fuji Ren. [*Neurocomputing 2026*](https://www.sciencedirect.com/science/article/abs/pii/S092523122600576X).
 - **FAME: Fusion-Aware Multi-modal Ensemble for Social Media Popularity Prediction.** **Yan Zhuang**, Wei Bai, Yanru Zhang, Minhao Liu, Jiawen Deng, Fuji Ren. [*ACM MM 2025*](https://dl.acm.org/doi/abs/10.1145/3746027.3763759).
 - **Enhanced Emotion Recognition in Conversations through Hybrid Context Encoding and Latent Dependency Mining.** Zheng Hu, Jiawen Deng, Satoshi Nakagawa, **Yan Zhuang**, Xiaoyue Zhang, Shimin Cai, Fuji Ren. [*IEEE TAFFC 2025*](https://ieeexplore.ieee.org/abstract/document/11134050).
-- **Intra-sample and Intra-modal Enhancement for Multimodal Sentiment Analysis with Missing Modalities.** **Yan Zhuang**, Yanru Zhang, Jiawen Deng, Fuji Ren. [*IEEE TMM 2025*](https://ieeexplore.ieee.org/abstract/document/11303977). [\[code\]](https://github.com/YetZzzzzz/IIE)
 - **Multi-Level Contrastive Learning for Multimodal Sentiment Analysis.** **Yan Zhuang**, Wei Bai, Yanru Zhang, Jiawen Deng, Zheng Hu, Xiaoyue Zhang, Fuji Ren. [*IEEE TMM 2025*](https://ieeexplore.ieee.org/abstract/document/11175557). [\[code\]](https://github.com/YetZzzzzz/MLCL)
 - **R3DG: Retrieve, Rank and Reconstruction with Different Granularities for Multimodal Sentiment Analysis.** **Yan Zhuang**, Yanru Zhang, Jiawen Deng, Fuji Ren. [*Research 2025*](https://spj.science.org/doi/full/10.34133/research.0729). [\[code\]](https://github.com/YetZzzzzz/R3DG)
 - **ETS-MM: A Multi-Modal Social Bot Detection Model Based on Enhanced Textual Semantic Representation.** Wei Li, Jiawen Deng, Jiali You, Yuanyuan He, **Yan Zhuang**, Fuji Ren. [*WWW 2025*](https://dl.acm.org/doi/abs/10.1145/3696410.3714551).
@@ -140,7 +178,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2015.09 - 2019.06*: &nbsp;B.S. in Information and Computing Science, <span class="primary-gradient-text">Anhui Science and Technology University</span>.
 
 # <i class="fas fa-laptop-code"></i> Internships
-- *2026.01 - Present*: &nbsp;Intern, **Tencent**: Self-Verifiable Multimodal Mathematical Reasoning (K9) using RL.
+- *2026.01 - Present*: &nbsp;Intern, **Tencent**: Multimodal Mathematical Reasoning using Reinforcement Learning.
 - *2022.01 - 2022.06*: &nbsp;Research Intern, **NetEase FUXI Laboratory**: LLM pre-training.
 
 # <i class="fas fa-trophy"></i> Honors and Awards
