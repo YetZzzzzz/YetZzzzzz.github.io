@@ -10,21 +10,6 @@ redirect_from:
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
-<style>
-.venue-tag {
-  display: inline-block;
-  background: linear-gradient(135deg, rgba(var(--accent-rgb, 52, 152, 219), 0.08), rgba(var(--accent-rgb, 52, 152, 219), 0.15));
-  background-color: rgba(52, 152, 219, 0.1);
-  color: inherit;
-  padding: 1px 8px;
-  border-radius: 4px;
-  font-size: 0.85em;
-  font-weight: 600;
-  margin-right: 4px;
-  border: 1px solid rgba(52, 152, 219, 0.2);
-}
-</style>
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -173,19 +158,19 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
   </div>
 </div>
 
-- <span class="accent-text venue-tag">ICMR 2026</span> **ReNoRD: Learning from Relations under Noisy Pseudo Labels via Relational Distillation for Multimodal Sentiment.** Tiantai Zhai, **Yan Zhuang**, Fuji Ren, Jiawen Deng, Liang Luo. *ICMR 2026*.
-- <span class="accent-text venue-tag">Neurocomputing 2026</span> **Decoupled Hypergraph Modeling for Multimodal Sentiment Analysis.** Yanping Huang, Jiawen Deng, **Yan Zhuang**, Jiali You, Qian Liu, Fuji Ren. [*Neurocomputing 2026*](https://www.sciencedirect.com/science/article/abs/pii/S092523122600576X).
-- <span class="accent-text venue-tag">ACM MM 2025</span> **FAME: Fusion-Aware Multi-modal Ensemble for Social Media Popularity Prediction.** **Yan Zhuang**, Wei Bai, Yanru Zhang, Minhao Liu, Jiawen Deng, Fuji Ren. [*ACM MM 2025*](https://dl.acm.org/doi/abs/10.1145/3746027.3763759).
-- <span class="accent-text venue-tag">IEEE TAFFC 2025</span> **Enhanced Emotion Recognition in Conversations through Hybrid Context Encoding and Latent Dependency Mining.** Zheng Hu, Jiawen Deng, Satoshi Nakagawa, **Yan Zhuang**, Xiaoyue Zhang, Shimin Cai, Fuji Ren. [*IEEE TAFFC 2025*](https://ieeexplore.ieee.org/abstract/document/11134050).
-- <span class="accent-text venue-tag">IEEE TMM 2025</span> **Multi-Level Contrastive Learning for Multimodal Sentiment Analysis.** **Yan Zhuang**, Wei Bai, Yanru Zhang, Jiawen Deng, Zheng Hu, Xiaoyue Zhang, Fuji Ren. [*IEEE TMM 2025*](https://ieeexplore.ieee.org/abstract/document/11175557). [\[code\]](https://github.com/YetZzzzzz/MLCL)
-- <span class="accent-text venue-tag">Research 2025</span> **R3DG: Retrieve, Rank and Reconstruction with Different Granularities for Multimodal Sentiment Analysis.** **Yan Zhuang**, Yanru Zhang, Jiawen Deng, Fuji Ren. [*Research 2025*](https://spj.science.org/doi/full/10.34133/research.0729). [\[code\]](https://github.com/YetZzzzzz/R3DG)
-- <span class="accent-text venue-tag">WWW 2025</span> **ETS-MM: A Multi-Modal Social Bot Detection Model Based on Enhanced Textual Semantic Representation.** Wei Li, Jiawen Deng, Jiali You, Yuanyuan He, **Yan Zhuang**, Fuji Ren. [*WWW 2025*](https://dl.acm.org/doi/abs/10.1145/3696410.3714551).
-- <span class="accent-text venue-tag">ACM MM 2024</span> **GLoMo: Global-local modal fusion for multimodal sentiment analysis.** **Yan Zhuang**, Yanru Zhang, Zheng Hu, Xiaoyue Zhang, Jiawen Deng, Fuji Ren. [*ACM MM 2024*](https://dl.acm.org/doi/abs/10.1145/3664647.3681527). [\[code\]](https://github.com/YetZzzzzz/GLoMo/tree/main)
-- <span class="accent-text venue-tag">IEEE TKDE 2024</span> **Hierarchical denoising for robust social recommendation.** Zheng Hu, Satoshi Nakagawa, **Yan Zhuang**, Jiawen Deng, Shimin Cai, Tao Zhou, Fuji Ren. [*IEEE TKDE 2024*](https://ieeexplore.ieee.org/abstract/document/10771708/).
-- <span class="accent-text venue-tag">EMNLP 2022 WS</span> **Yet at the FinNLP-2022 ERAI Task: Modified models for evaluating the Rationales of Amateur Investors.** **Yan Zhuang**, Fuji Ren. [*EMNLP 2022 Workshop*](https://aclanthology.org/2022.finnlp-1.17/).
-- <span class="accent-text venue-tag">COLING 2022 WS</span> **Yet@smm4h'22: Improved bert-based classification models with rdrop and polyloss.** **Yan Zhuang**, Yanru Zhang. [*COLING 2022 Workshop*](https://aclanthology.org/2022.smm4h-1.28/).
-- <span class="accent-text venue-tag">AAAI 2022 WS</span> **Yet at Memotion 2.0 2022: Hate speech detection combining bilstm and fully connected layers.** **Yan Zhuang**, Yanru Zhang. [*AAAI 2022 Workshop*](https://ceur-ws.org/Vol-3199/paper14.pdf).
-- <span class="accent-text venue-tag">AAAI 2022 WS</span> **Yet at Factify 2022: Unimodal and bimodal roberta-based models for fact checking.** **Yan Zhuang**, Yanru Zhang. [*AAAI 2022 Workshop*](https://ceur-ws.org/Vol-3199/paper8.pdf).
+- <span class="accent-text">ICMR 2026</span> **ReNoRD: Learning from Relations under Noisy Pseudo Labels via Relational Distillation for Multimodal Sentiment.** Tiantai Zhai, **Yan Zhuang**, Fuji Ren, Jiawen Deng, Liang Luo. *ICMR 2026*.
+- <span class="accent-text">Neurocomputing 2026</span> **Decoupled Hypergraph Modeling for Multimodal Sentiment Analysis.** Yanping Huang, Jiawen Deng, **Yan Zhuang**, Jiali You, Qian Liu, Fuji Ren. [*Neurocomputing 2026*](https://www.sciencedirect.com/science/article/abs/pii/S092523122600576X).
+- <span class="accent-text">ACM MM 2025</span> **FAME: Fusion-Aware Multi-modal Ensemble for Social Media Popularity Prediction.** **Yan Zhuang**, Wei Bai, Yanru Zhang, Minhao Liu, Jiawen Deng, Fuji Ren. [*ACM MM 2025*](https://dl.acm.org/doi/abs/10.1145/3746027.3763759).
+- <span class="accent-text">IEEE TAFFC 2025</span> **Enhanced Emotion Recognition in Conversations through Hybrid Context Encoding and Latent Dependency Mining.** Zheng Hu, Jiawen Deng, Satoshi Nakagawa, **Yan Zhuang**, Xiaoyue Zhang, Shimin Cai, Fuji Ren. [*IEEE TAFFC 2025*](https://ieeexplore.ieee.org/abstract/document/11134050).
+- <span class="accent-text">IEEE TMM 2025</span> **Multi-Level Contrastive Learning for Multimodal Sentiment Analysis.** **Yan Zhuang**, Wei Bai, Yanru Zhang, Jiawen Deng, Zheng Hu, Xiaoyue Zhang, Fuji Ren. [*IEEE TMM 2025*](https://ieeexplore.ieee.org/abstract/document/11175557). [\[code\]](https://github.com/YetZzzzzz/MLCL)
+- <span class="accent-text">Research 2025</span> **R3DG: Retrieve, Rank and Reconstruction with Different Granularities for Multimodal Sentiment Analysis.** **Yan Zhuang**, Yanru Zhang, Jiawen Deng, Fuji Ren. [*Research 2025*](https://spj.science.org/doi/full/10.34133/research.0729). [\[code\]](https://github.com/YetZzzzzz/R3DG)
+- <span class="accent-text">WWW 2025</span> **ETS-MM: A Multi-Modal Social Bot Detection Model Based on Enhanced Textual Semantic Representation.** Wei Li, Jiawen Deng, Jiali You, Yuanyuan He, **Yan Zhuang**, Fuji Ren. [*WWW 2025*](https://dl.acm.org/doi/abs/10.1145/3696410.3714551).
+- <span class="accent-text">ACM MM 2024</span> **GLoMo: Global-local modal fusion for multimodal sentiment analysis.** **Yan Zhuang**, Yanru Zhang, Zheng Hu, Xiaoyue Zhang, Jiawen Deng, Fuji Ren. [*ACM MM 2024*](https://dl.acm.org/doi/abs/10.1145/3664647.3681527). [\[code\]](https://github.com/YetZzzzzz/GLoMo/tree/main)
+- <span class="accent-text">IEEE TKDE 2024</span> **Hierarchical denoising for robust social recommendation.** Zheng Hu, Satoshi Nakagawa, **Yan Zhuang**, Jiawen Deng, Shimin Cai, Tao Zhou, Fuji Ren. [*IEEE TKDE 2024*](https://ieeexplore.ieee.org/abstract/document/10771708/).
+- <span class="accent-text">EMNLP 2022 WS</span> **Yet at the FinNLP-2022 ERAI Task: Modified models for evaluating the Rationales of Amateur Investors.** **Yan Zhuang**, Fuji Ren. [*EMNLP 2022 Workshop*](https://aclanthology.org/2022.finnlp-1.17/).
+- <span class="accent-text">COLING 2022 WS</span> **Yet@smm4h'22: Improved bert-based classification models with rdrop and polyloss.** **Yan Zhuang**, Yanru Zhang. [*COLING 2022 Workshop*](https://aclanthology.org/2022.smm4h-1.28/).
+- <span class="accent-text">AAAI 2022 WS</span> **Yet at Memotion 2.0 2022: Hate speech detection combining bilstm and fully connected layers.** **Yan Zhuang**, Yanru Zhang. [*AAAI 2022 Workshop*](https://ceur-ws.org/Vol-3199/paper14.pdf).
+- <span class="accent-text">AAAI 2022 WS</span> **Yet at Factify 2022: Unimodal and bimodal roberta-based models for fact checking.** **Yan Zhuang**, Yanru Zhang. [*AAAI 2022 Workshop*](https://ceur-ws.org/Vol-3199/paper8.pdf).
 
 # <i class="fas fa-graduation-cap"></i> Educations
 - *2022.09 - Present*: &nbsp;Ph.D. in Computer Science and Technology, <span class="primary-gradient-text">University of Electronic Science and Technology of China</span>. Advisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>.
