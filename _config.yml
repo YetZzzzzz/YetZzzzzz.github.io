@@ -6,35 +6,35 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Jinxiang Xie"
+locale                   : "cn-CHN"
+title                    : "Yan Zhuang"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Jinxiang Xie"
+name                     : "Yan Zhuang"
 description              : ""
-url                     : "https://jxtse.github.io"
+url                     : "https://YetZzzzzz.github.io"
 baseurl                 : ""
-repository               : "jxtse/jxtse.github.io"
+repository               : "YetZzzzzz/YetZzzzzz.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  googlea34440bfd0246b9e.html
+google_site_verification :  # googlea34440bfd0246b9e.html
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
+  name             : "Yan Zhuang"
   avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Nanjing University"
-  location         : "Nanjing, China"
+  bio              : "UESTC"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
-  email            : "jxTse@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=DtOl0DkAAAAJ"
+  email            : "delecisz@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,13 +43,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jxtse"
+  github           : "YetZzzzzz"
   google_plus      :
   keybase          :
-  instagram        : "richardtse_"
+  instagram        : # "richardtse_"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jinxiang-xie"
+  linkedin         : # "YetZzzzzz"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -57,7 +57,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JinxiangTse"
+  twitter          : # "JinxiangTse"
   vine             :
   weibo            :
   xing             :
