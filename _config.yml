@@ -29,7 +29,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yan Zhuang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "UESTC"
+  bio              : "Focusing on MLLM Applications."
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
