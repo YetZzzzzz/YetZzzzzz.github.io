@@ -25,7 +25,7 @@ I was a research intern at <i class="fas fa-building"></i> **Tencent**, working 
 Prior to this, I gained valuable research experience at <i class="fas fa-gamepad"></i> **NetEase FUXI Laboratory** focusing on LLM pre-training.
 
 <div class="quote-accent">
-My research focuses on <span class="primary-gradient-text">Multimodal Learning and Reasoning</span>, with an emphasis on advancing emotion perception and classification in scenarios where textual, visual, and audio modalities are available, either fully or partially.
+During my Ph.D., my research centers on <span class="primary-gradient-text">Multimodal Learning and Application</span>, specifically investigating the alignment, fusion, and unified generalization of multimodal representations, with downstream applications in affective computing and beyond. My current and future research interests lie in <span class="primary-gradient-text">MLLM-based Applications</span>, including but not limited to exploring open-ended problems with Multimodal Large Language Models.
 </div>
 
 <span class="accent-text">**I am actively seeking postdoctoral positions related to MLLM (Multimodal Large Language Models).**</span> I am especially interested in <span class="primary-gradient-text">Embodied Intelligence</span>, <span class="primary-gradient-text">World Models</span>, and <span class="primary-gradient-text">VLA (Vision-Language-Action)</span>. If there are opportunities in **Hong Kong** or **Singapore**, please do not hesitate to contact me!
@@ -34,16 +34,16 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> Multimodal Application</h3>
     <ul>
-      <li><span class="accent-text">Affective understanding</span> and reasoning</li>
-      <li>Robust multimodal application under <span class="primary-gradient-text">data missing & noise</span></li>
+      <li><span class="accent-text">Affective understanding and reasoning</li>
+      <li>Robust multimodal application under <span class="primary-gradient-text">missing and noisy</span>signals</li>
       <li>Multimodal representation <span class="accent-text">alignment</span>, <span class="accent-text">fusion</span>, and <span class="accent-text">unification</span></li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-robot"></i> RLVR</h3>
+    <h3><i class="fas fa-robot"></i> RLVR-based Application</h3>
     <ul>
-      <li><span class="accent-text">Reinforcement Learning</span> with Verifiable Rewards</li>
+      <li><span class="accent-text">Reinforcement Learning with Verifiable Rewards</span></li>
       <li>Multimodal <span class="primary-gradient-text">mathematical problem solving</span></li>
       <li>Math verification and reasoning</li>
     </ul>
@@ -53,7 +53,7 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
     <h3><i class="fas fa-brain"></i> MLLM-based Application</h3>
     <ul>
       <li>MLLM for <span class="accent-text">Healthcare</span></li>
-      <li><span class="primary-gradient-text">World Model</span> & Embodied Intelligence</li>
+      <li><span class="primary-gradient-text">World Model</span> and Embodied Intelligence</li>
       <li>Vision-Language-Action (<span class="accent-text">VLA</span>)</li>
     </ul>
   </div>
@@ -61,8 +61,8 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
 
 # <i class="fas fa-fire"></i> News
 - *2026.05*: &nbsp;🎉🎉 One paper (ReNoRD) is accepted by ACM International Conference on Multimedia Retrieval (ICMR 2026).
-- *2026.04*: &nbsp;🎉🎉 One paper (DEJA) is accepted by <span class="accent-text">ACL 2026 Main Conference</span>.
-- *2026.03*: &nbsp;🎉🎉 One paper (DHM) is accepted by Neurocomputing 2026.
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by <span class="accent-text">ACL 2026 Main Conference</span>.
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by Neurocomputing 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper (TMDC) is accepted by The 40th Annual AAAI Conference on Artificial Intelligence (<span class="accent-text">AAAI 2026</span>).
 - *2025.09*: &nbsp;🎉🎉 One paper (HME) is accepted by The 38th Conference on Neural Information Processing Systems (<span class="accent-text">NeurIPS 2025</span>).
 - *2025.07*: &nbsp;🎉🎉 One paper (CMAD) is accepted by The IEEE/CVF International Conference on Computer Vision (<span class="accent-text">ICCV 2025</span>).
@@ -82,7 +82,7 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ACL Main 2026</div>
-    <img src='images/acl_main_2026.png' alt="ACL 2026 Paper" width="100%">
+    <img src='images/ACL2026.png' alt="ACL 2026 Paper" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="#" style="color: inherit; text-decoration: none;">Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation</a></h3>
@@ -97,7 +97,7 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">AAAI 2026</div>
-    <img src='images/aaai_26.png' alt="TMDC Framework" width="100%">
+    <img src='images/TMDC.png' alt="TMDC Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/view/37212" style="color: inherit; text-decoration: none;">TMDC: A Two-Stage Modality Denoising and Complementation Framework for Multimodal Sentiment Analysis with Missing and Noisy Modalities</a></h3>
@@ -113,7 +113,7 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">NeurIPS 2025</div>
-    <img src='images/neurips_25.png' alt="HME Framework" width="100%">
+    <img src='images/HME.png' alt="HME Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="https://openreview.net/pdf?id=mPOQZMBKaN" style="color: inherit; text-decoration: none;">Hyper-Modality Enhancement for Multimodal Sentiment Analysis with Missing Modalities</a></h3>
@@ -129,7 +129,7 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ICCV 2025</div>
-    <img src='images/iccv_25.png' alt="CMAD Framework" width="100%">
+    <img src='images/CMAD.png' alt="CMAD Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Zhuang_CMAD_Correlation-Aware_and_Modalities-Aware_Distillation_for_Multimodal_Sentiment_Analysis_with_ICCV_2025_paper.html" style="color: inherit; text-decoration: none;">CMAD: Correlation-Aware and Modalities-Aware Distillation for Multimodal Sentiment Analysis with Missing Modalities</a></h3>
@@ -145,7 +145,7 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">IEEE TMM 2025</div>
-    <img src='images/tmm_25.png' alt="IIE Framework" width="100%">
+    <img src='images/IIE.png' alt="IIE Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="https://ieeexplore.ieee.org/abstract/document/11303977" style="color: inherit; text-decoration: none;">Intra-sample and Intra-modal Enhancement for Multimodal Sentiment Analysis with Missing Modalities</a></h3>
@@ -173,7 +173,8 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
 - <span class="accent-text">AAAI 2022 WS</span> **Yet at Factify 2022: Unimodal and bimodal roberta-based models for fact checking.** **Yan Zhuang**, Yanru Zhang. [*AAAI 2022 Workshop*](https://ceur-ws.org/Vol-3199/paper8.pdf).
 
 # <i class="fas fa-graduation-cap"></i> Educations
-- *2022.09 - Present*: &nbsp;Ph.D. in Computer Science and Technology, <span class="primary-gradient-text">University of Electronic Science and Technology of China</span>. Advisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>.
+- *Present*: &nbsp;<span class="accent-text">🔍 Actively seeking a postdoctoral position in **Hong Kong** or **Singapore**</span>, focusing on <span class="primary-gradient-text">MLLM</span>, <span class="primary-gradient-text">World Models</span>, <span class="primary-gradient-text">AI for Healthcare</span>, or <span class="primary-gradient-text">Embodied Intelligence</span>.
+- *2022.09 - 2026.06*: &nbsp;Ph.D. in Computer Science and Technology, <span class="primary-gradient-text">University of Electronic Science and Technology of China</span>. Advisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>.
 - *2019.09 - 2022.06*: &nbsp;M.S. in Computer Technology, <span class="primary-gradient-text">University of Electronic Science and Technology of China</span>. Advisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>.
 - *2015.09 - 2019.06*: &nbsp;B.S. in Information and Computing Science, <span class="primary-gradient-text">Anhui Science and Technology University</span>.
 
