@@ -28,7 +28,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yan Zhuang"
-  avatar           : "images/android-chrome-512x512.jpg"
+  avatar           : "images/yanzhuang.jpg"
   bio              : "UESTC"
   location         : "Chengdu, China"
   employer         :
@@ -51,7 +51,7 @@ author:
   lastfm           :
   linkedin         : # "YetZzzzzz"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-7444-3275"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
