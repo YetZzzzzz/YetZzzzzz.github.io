@@ -61,8 +61,8 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
 
 # <i class="fas fa-fire"></i> News
 - *2026.05*: &nbsp;🎉🎉 One paper (ReNoRD) is accepted by ACM International Conference on Multimedia Retrieval (ICMR 2026).
-- *2026.04*: &nbsp;🎉🎉 One paper is accepted by <span class="accent-text">ACL 2026 Main Conference</span>.
-- *2026.03*: &nbsp;🎉🎉 One paper is accepted by Neurocomputing 2026.
+- *2026.04*: &nbsp;🎉🎉 One paper (DEJA) is accepted by <span class="accent-text">ACL 2026 Main Conference</span>.
+- *2026.03*: &nbsp;🎉🎉 One paper (DHM) is accepted by Neurocomputing 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper (TMDC) is accepted by The 40th Annual AAAI Conference on Artificial Intelligence (<span class="accent-text">AAAI 2026</span>).
 - *2025.09*: &nbsp;🎉🎉 One paper (HME) is accepted by The 38th Conference on Neural Information Processing Systems (<span class="accent-text">NeurIPS 2025</span>).
 - *2025.07*: &nbsp;🎉🎉 One paper (CMAD) is accepted by The IEEE/CVF International Conference on Computer Vision (<span class="accent-text">ICCV 2025</span>).
@@ -113,7 +113,7 @@ My research focuses on <span class="primary-gradient-text">Multimodal Learning a
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">NeurIPS 2025</div>
-    <img src='images/neurips_2025.png' alt="HME Framework" width="100%">
+    <img src='images/neurips_25.png' alt="HME Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="https://openreview.net/pdf?id=mPOQZMBKaN" style="color: inherit; text-decoration: none;">Hyper-Modality Enhancement for Multimodal Sentiment Analysis with Missing Modalities</a></h3>
