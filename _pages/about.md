@@ -32,7 +32,7 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
     <h3><i class="fas fa-microscope"></i> Multimodal Application</h3>
     <ul>
       <li><span class="accent-text">Affective understanding and reasoning</span></li>
-      <li>Robust multimodal application under <span class="primary-gradient-text">missing and noisy</span>signals</li>
+      <li>Robust multimodal application under <span class="primary-gradient-text">missing and noisy </span>signals</li>
       <li>Multimodal representation <span class="accent-text">alignment</span>, <span class="accent-text">fusion</span>, and <span class="accent-text">unification</span></li>
     </ul>
   </div>
