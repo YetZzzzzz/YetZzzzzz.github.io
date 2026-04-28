@@ -82,7 +82,7 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ACL Main 2026</div>
-    <img src='images/ACL2026.png' alt="ACL 2026 Paper" width="100%">
+    <img src='images/acl_main_2026.png' alt="ACL 2026 Paper" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="#" style="color: inherit; text-decoration: none;">Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation</a></h3>
@@ -97,7 +97,7 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">AAAI 2026</div>
-    <img src='images/TMDC.png' alt="TMDC Framework" width="100%">
+    <img src='images/aaai_26.png' alt="TMDC Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/view/37212" style="color: inherit; text-decoration: none;">TMDC: A Two-Stage Modality Denoising and Complementation Framework for Multimodal Sentiment Analysis with Missing and Noisy Modalities</a></h3>
@@ -113,7 +113,7 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">NeurIPS 2025</div>
-    <img src='images/HME.png' alt="HME Framework" width="100%">
+    <img src='images/neurips_25.png' alt="HME Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="https://openreview.net/pdf?id=mPOQZMBKaN" style="color: inherit; text-decoration: none;">Hyper-Modality Enhancement for Multimodal Sentiment Analysis with Missing Modalities</a></h3>
@@ -129,7 +129,7 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ICCV 2025</div>
-    <img src='images/CMAD.png' alt="CMAD Framework" width="100%">
+    <img src='images/iccv_25.png' alt="CMAD Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Zhuang_CMAD_Correlation-Aware_and_Modalities-Aware_Distillation_for_Multimodal_Sentiment_Analysis_with_ICCV_2025_paper.html" style="color: inherit; text-decoration: none;">CMAD: Correlation-Aware and Modalities-Aware Distillation for Multimodal Sentiment Analysis with Missing Modalities</a></h3>
@@ -145,7 +145,7 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">IEEE TMM 2025</div>
-    <img src='images/IIE.png' alt="IIE Framework" width="100%">
+    <img src='images/tmm_25.png' alt="IIE Framework" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3><a href="https://ieeexplore.ieee.org/abstract/document/11303977" style="color: inherit; text-decoration: none;">Intra-sample and Intra-modal Enhancement for Multimodal Sentiment Analysis with Missing Modalities</a></h3>
@@ -162,10 +162,10 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 - <span class="accent-text">Neurocomputing 2026</span> [**Decoupled Hypergraph Modeling for Multimodal Sentiment Analysis.**](https://www.sciencedirect.com/science/article/abs/pii/S092523122600576X) Yanping Huang, Jiawen Deng, **Yan Zhuang**, Jiali You, Qian Liu, Fuji Ren.
 - <span class="accent-text">ACM MM 2025</span> [**FAME: Fusion-Aware Multi-modal Ensemble for Social Media Popularity Prediction.**](https://dl.acm.org/doi/abs/10.1145/3746027.3763759) **Yan Zhuang**, Wei Bai, Yanru Zhang, Minhao Liu, Jiawen Deng, Fuji Ren.
 - <span class="accent-text">IEEE TAFFC 2025</span> [**Enhanced Emotion Recognition in Conversations through Hybrid Context Encoding and Latent Dependency Mining.**](https://ieeexplore.ieee.org/abstract/document/11134050) Zheng Hu, Jiawen Deng, Satoshi Nakagawa, **Yan Zhuang**, Xiaoyue Zhang, Shimin Cai, Fuji Ren.
-- <span class="accent-text">IEEE TMM 2025</span> [**Multi-Level Contrastive Learning for Multimodal Sentiment Analysis.**](https://ieeexplore.ieee.org/abstract/document/11175557) **Yan Zhuang**, Wei Bai, Yanru Zhang, Jiawen Deng, Zheng Hu, Xiaoyue Zhang, Fuji Ren. [\[code\]](https://github.com/YetZzzzzz/MLCL)
-- <span class="accent-text">Research 2025</span> [**R3DG: Retrieve, Rank and Reconstruction with Different Granularities for Multimodal Sentiment Analysis.**](https://spj.science.org/doi/full/10.34133/research.0729) **Yan Zhuang**, Yanru Zhang, Jiawen Deng, Fuji Ren. [\[code\]](https://github.com/YetZzzzzz/R3DG)
+- <span class="accent-text">IEEE TMM 2025</span> [**Multi-Level Contrastive Learning for Multimodal Sentiment Analysis.**](https://ieeexplore.ieee.org/abstract/document/11175557) **Yan Zhuang**, Wei Bai, Yanru Zhang, Jiawen Deng, Zheng Hu, Xiaoyue Zhang, Fuji Ren. <a href="https://github.com/YetZzzzzz/MLCL" class="btn-accent" style="font-size:0.85em;"><i class="fab fa-github"></i> Code</a>
+- <span class="accent-text">Research 2025</span> [**R3DG: Retrieve, Rank and Reconstruction with Different Granularities for Multimodal Sentiment Analysis.**](https://spj.science.org/doi/full/10.34133/research.0729) **Yan Zhuang**, Yanru Zhang, Jiawen Deng, Fuji Ren. <a href="https://github.com/YetZzzzzz/R3DG" class="btn-accent" style="font-size:0.85em;"><i class="fab fa-github"></i> Code</a>
 - <span class="accent-text">WWW 2025</span> [**ETS-MM: A Multi-Modal Social Bot Detection Model Based on Enhanced Textual Semantic Representation.**](https://dl.acm.org/doi/abs/10.1145/3696410.3714551) Wei Li, Jiawen Deng, Jiali You, Yuanyuan He, **Yan Zhuang**, Fuji Ren.
-- <span class="accent-text">ACM MM 2024</span> [**GLoMo: Global-local modal fusion for multimodal sentiment analysis.**](https://dl.acm.org/doi/abs/10.1145/3664647.3681527) **Yan Zhuang**, Yanru Zhang, Zheng Hu, Xiaoyue Zhang, Jiawen Deng, Fuji Ren. [\[code\]](https://github.com/YetZzzzzz/GLoMo/tree/main)
+- <span class="accent-text">ACM MM 2024</span> [**GLoMo: Global-local modal fusion for multimodal sentiment analysis.**](https://dl.acm.org/doi/abs/10.1145/3664647.3681527) **Yan Zhuang**, Yanru Zhang, Zheng Hu, Xiaoyue Zhang, Jiawen Deng, Fuji Ren. <a href="https://github.com/YetZzzzzz/GLoMo/tree/main" class="btn-accent" style="font-size:0.85em;"><i class="fab fa-github"></i> Code</a>
 - <span class="accent-text">IEEE TKDE 2024</span> [**Hierarchical denoising for robust social recommendation.**](https://ieeexplore.ieee.org/abstract/document/10771708/) Zheng Hu, Satoshi Nakagawa, **Yan Zhuang**, Jiawen Deng, Shimin Cai, Tao Zhou, Fuji Ren.
 - <span class="accent-text">EMNLP 2022 WS</span> [**Yet at the FinNLP-2022 ERAI Task: Modified models for evaluating the Rationales of Amateur Investors.**](https://aclanthology.org/2022.finnlp-1.17/) **Yan Zhuang**, Fuji Ren.
 - <span class="accent-text">COLING 2022 WS</span> [**Yet@smm4h'22: Improved bert-based classification models with rdrop and polyloss.**](https://aclanthology.org/2022.smm4h-1.28/) **Yan Zhuang**, Yanru Zhang.
