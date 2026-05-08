@@ -58,19 +58,19 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 
 # <i class="fas fa-fire"></i> News
 - *2026.05*: &nbsp;🎉🎉 One paper (ReNoRD) is accepted by ACM International Conference on Multimedia Retrieval (ICMR 2026).
-- *2026.04*: &nbsp;🎉🎉 One paper (DEJA) is accepted by <span class="accent-text">ACL 2026 Main Conference</span>.
+- *2026.04*: &nbsp;🎉🎉 One paper (DEJA) is accepted by The 64th Annual Meeting of the Association for Computational Linguistics (<span class="accent-text">ACL 2026 Main Conference</span>).
 - *2026.03*: &nbsp;🎉🎉 One paper (DHM) is accepted by Neurocomputing 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper (TMDC) is accepted by The 40th Annual AAAI Conference on Artificial Intelligence (<span class="accent-text">AAAI 2026</span>).
 - *2025.09*: &nbsp;🎉🎉 One paper (HME) is accepted by The 38th Conference on Neural Information Processing Systems (<span class="accent-text">NeurIPS 2025</span>).
 - *2025.07*: &nbsp;🎉🎉 One paper (CMAD) is accepted by The IEEE/CVF International Conference on Computer Vision (<span class="accent-text">ICCV 2025</span>).
-- *2025.04*: &nbsp;🎉🎉 One paper (FAME) is accepted by ACM Multimedia 2025 (ACM MM 2025).
-- *2025.03*: &nbsp;🎉🎉 One paper (IIE) is accepted by IEEE Transactions on Multimedia (TMM 2025).
-- *2025.02*: &nbsp;🎉🎉 One paper (MLCL) is accepted by IEEE Transactions on Multimedia (TMM 2025).
+- *2025.04*: &nbsp;🎉🎉 One paper (FAME) is accepted by ACM Multimedia 2025 (<span class="accent-text">ACM MM 2025</span>).
+- *2025.03*: &nbsp;🎉🎉 One paper (IIE) is accepted by IEEE Transactions on Multimedia (<span class="accent-text">IEEE-TMM 2025</span>).
+- *2025.02*: &nbsp;🎉🎉 One paper (MLCL) is accepted by IEEE Transactions on Multimedia (<span class="accent-text">IEEE-TMM 2025</span>).
 - *2025.01*: &nbsp;🎉🎉 One paper (R3DG) is accepted by Research 2025.
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing (TAFFC 2025).
-- *2025.01*: &nbsp;🎉🎉 One paper (ETS-MM) is accepted by The Web Conference 2025 (WWW 2025).
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE 2024).
-- *2024.07*: &nbsp;🎉🎉 One paper (GLoMo) is accepted by ACM Multimedia 2024 (ACM MM 2024).
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing (<span class="accent-text">IEEE-TAFFC 2025</span>).
+- *2025.01*: &nbsp;🎉🎉 One paper (ETS-MM) is accepted by The Web Conference 2025 (<span class="accent-text">WWW 2025</span>).
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Knowledge and Data Engineering (<span class="accent-text">IEEE-TKDE 2025</span>).
+- *2024.07*: &nbsp;🎉🎉 One paper (GLoMo) is accepted by ACM Multimedia 2024 (<span class="accent-text">ACM MM 2024</span>).
 
 # <i class="fas fa-file-alt"></i> Publications 
 
@@ -187,5 +187,5 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 - *2017*: &nbsp;<span class="accent-text">National Scholarship (B.S.)</span>.
 
 # <i class="fas fa-users"></i> Professional Service
-- **Journal Reviewer:** IEEE Transactions on Multimedia (T-MM), IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), IEEE Transactions on Vehicular Technology (T-VT)
+- **Journal Reviewer:** IEEE Transactions on Multimedia (IEEE-TMM), IEEE Transactions on Circuits and Systems for Video Technology (IEEE-TCSVT), IEEE Transactions on Vehicular Technology (IEEE-TVT)
 - **Conference Reviewer:** CVPR 2026, ICML 2026, NeurIPS 2026
