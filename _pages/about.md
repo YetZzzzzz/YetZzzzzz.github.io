@@ -58,7 +58,7 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 
 # <i class="fas fa-fire"></i> News
 - *2026.05*: &nbsp;🎉🎉 One paper (ReNoRD) is accepted by ACM International Conference on Multimedia Retrieval (ICMR 2026).
-- *2026.04*: &nbsp;🎉🎉 One paper (DEJA) is accepted by The 64th Annual Meeting of the Association for Computational Linguistics (<span class="accent-text">ACL 2026 Main Conference</span>).
+- *2026.04*: &nbsp;🎉🎉 One paper (DEJA) is accepted by The 64th Annual Meeting of the Association for Computational Linguistics (<span class="accent-text">ACL Main 2026</span>).
 - *2026.03*: &nbsp;🎉🎉 One paper (DHM) is accepted by Neurocomputing 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper (TMDC) is accepted by The 40th Annual AAAI Conference on Artificial Intelligence (<span class="accent-text">AAAI 2026</span>).
 - *2025.09*: &nbsp;🎉🎉 One paper (HME) is accepted by The 38th Conference on Neural Information Processing Systems (<span class="accent-text">NeurIPS 2025</span>).
