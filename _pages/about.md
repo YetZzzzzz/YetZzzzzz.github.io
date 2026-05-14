@@ -188,4 +188,4 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 
 # <i class="fas fa-users"></i> Professional Service
 - **Journal Reviewer:** IEEE Transactions on Multimedia (IEEE-TMM), IEEE Transactions on Circuits and Systems for Video Technology (IEEE-TCSVT), IEEE Transactions on Vehicular Technology (IEEE-TVT)
-- **Conference Reviewer:** CVPR 2026, ICML 2026, NeurIPS 2026
+- **Conference Reviewer:** CVPR 2026, ICML 2026 (<span class="accent-text">Gold Reviewer, Top 25%</span>), NeurIPS 2026
