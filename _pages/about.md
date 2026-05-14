@@ -84,7 +84,7 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
   <div class='paper-box-text'>
     <h3><a href="#" style="color: inherit; text-decoration: none;">Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation</a></h3>
     <div class="authors">Wentao Zhang, <strong>Yan Zhuang</strong>, Zhuhang Zheng, Mingfei Zhang, Jiawen Deng, Fuji Ren</div>
-    <div class="venue">In The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main)</div>
+    <div class="venue">In The 64th Annual Meeting of the Association for Computational Linguistics (ACL Main 2026)</div>
     <div class="links">
       <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
     </div>
@@ -188,4 +188,4 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 
 # <i class="fas fa-users"></i> Professional Service
 - **Journal Reviewer:** IEEE Transactions on Multimedia (IEEE-TMM), IEEE Transactions on Circuits and Systems for Video Technology (IEEE-TCSVT), IEEE Transactions on Vehicular Technology (IEEE-TVT)
-- **Conference Reviewer:** CVPR 2026, ICML 2026 (<span class="accent-text">Gold Reviewer, Top 25%</span>), NeurIPS 2026
+- **Conference Reviewer:** CVPR 2026, ICML 2026 (<span class="accent-text">Gold Reviewer Award, Top 25%</span>), NeurIPS 2026
