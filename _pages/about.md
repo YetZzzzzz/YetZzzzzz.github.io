@@ -86,7 +86,7 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
     <div class="authors">Wentao Zhang, <strong>Yan Zhuang</strong>, Zhuhang Zheng, Mingfei Zhang, Jiawen Deng, Fuji Ren</div>
     <div class="venue">In The 64th Annual Meeting of the Association for Computational Linguistics (ACL Main 2026)</div>
     <div class="links">
-      <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://arxiv.org/pdf/2604.18663" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
     </div>
   </div>
 </div>
