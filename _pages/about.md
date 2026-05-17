@@ -82,11 +82,12 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
     <img src='images/acl_main_2026.png' alt="ACL 2026 Paper" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3><a href="#" style="color: inherit; text-decoration: none;">Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation</a></h3>
+    <h3><a href="https://arxiv.org/pdf/2604.18663" style="color: inherit; text-decoration: none;">Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation</a></h3>
     <div class="authors">Wentao Zhang, <strong>Yan Zhuang</strong>, Zhuhang Zheng, Mingfei Zhang, Jiawen Deng, Fuji Ren</div>
     <div class="venue">In The 64th Annual Meeting of the Association for Computational Linguistics (ACL Main 2026)</div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2604.18663" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="links" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -113,11 +114,11 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
     <img src='images/neurips_25.png' alt="HME Framework" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3><a href="https://openreview.net/pdf?id=mPOQZMBKaN" style="color: inherit; text-decoration: none;">Hyper-Modality Enhancement for Multimodal Sentiment Analysis with Missing Modalities</a></h3>
+    <h3><a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/d079de28c5e3f22e3507db24e870126b-Paper-Conference.pdf" style="color: inherit; text-decoration: none;">Hyper-Modality Enhancement for Multimodal Sentiment Analysis with Missing Modalities</a></h3>
     <div class="authors"><strong>Yan Zhuang*</strong>, Minhao Liu*, Wei Bai, Yanru Zhang, Wei Li, Jiawen Deng, Fuji Ren</div>
     <div class="venue">In The 38th Conference on Neural Information Processing Systems (NeurIPS 2025)</div>
     <div class="links">
-      <a href="https://openreview.net/pdf?id=mPOQZMBKaN" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/d079de28c5e3f22e3507db24e870126b-Paper-Conference.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/YetZzzzzz/HME" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
