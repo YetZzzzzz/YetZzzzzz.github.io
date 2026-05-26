@@ -188,5 +188,5 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 - *2017*: &nbsp;<span class="accent-text">National Scholarship (B.S.)</span>.
 
 # <i class="fas fa-users"></i> Professional Service
-- **Journal Reviewer:** IEEE Transactions on Multimedia (IEEE-TMM), IEEE Transactions on Circuits and Systems for Video Technology (IEEE-TCSVT), IEEE Transactions on Vehicular Technology (IEEE-TVT)
+- **Journal Reviewer:** IEEE Transactions on Multimedia (IEEE-TMM), IEEE Transactions on Affective Computing (IEEE-TAFFC), IEEE Transactions on Circuits and Systems for Video Technology (IEEE-TCSVT), IEEE Transactions on Vehicular Technology (IEEE-TVT)
 - **Conference Reviewer:** CVPR 2026, ICML 2026 (<span class="accent-text">Gold Reviewer Award, Top 25%</span>), NeurIPS 2026
