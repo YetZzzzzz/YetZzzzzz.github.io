@@ -71,7 +71,7 @@ My research interests lie in <span class="primary-gradient-text">MLLM-driven App
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Knowledge and Data Engineering (<span class="accent-text">IEEE-TKDE 2025</span>).
 - *2024.07*: &nbsp;🎉🎉 One paper (GLoMo) is accepted by ACM Multimedia 2024 (<span class="accent-text">ACM MM 2024</span>).
 
-# <i class="fas fa-file-alt"></i> Publications 
+# <i class="fas fa-file-alt"></i> Selected Publications 
 
 <small>(*denotes joint first-authors, <a href="https://scholar.google.com.hk/citations?user=DtOl0DkAAAAJ&hl=zh-CN" class="link-accent">Google Scholar</a>)</small>
 
@@ -164,10 +164,6 @@ My research interests lie in <span class="primary-gradient-text">MLLM-driven App
 - <span class="accent-text">WWW 2025 </span> [**ETS-MM: A Multi-Modal Social Bot Detection Model Based on Enhanced Textual Semantic Representation.**](https://dl.acm.org/doi/abs/10.1145/3696410.3714551) Wei Li, Jiawen Deng, Jiali You, Yuanyuan He, **Yan Zhuang**, Fuji Ren.
 - <span class="accent-text">ACM MM 2024 </span> [**GLoMo: Global-local modal fusion for multimodal sentiment analysis.**](https://dl.acm.org/doi/abs/10.1145/3664647.3681527) **Yan Zhuang**, Yanru Zhang, Zheng Hu, Xiaoyue Zhang, Jiawen Deng, Fuji Ren. <a href="https://github.com/YetZzzzzz/GLoMo/tree/main" style="text-decoration:none;color:#333;"><i class="fab fa-github"></i></a>
 - <span class="accent-text">IEEE TKDE 2024 </span> [**Hierarchical denoising for robust social recommendation.**](https://ieeexplore.ieee.org/abstract/document/10771708/) Zheng Hu, Satoshi Nakagawa, **Yan Zhuang**, Jiawen Deng, Shimin Cai, Tao Zhou, Fuji Ren.
-- <span class="accent-text">EMNLP 2022 WS </span> [**Yet at the FinNLP-2022 ERAI Task: Modified models for evaluating the Rationales of Amateur Investors.**](https://aclanthology.org/2022.finnlp-1.17/) **Yan Zhuang**, Fuji Ren.
-- <span class="accent-text">COLING 2022 WS </span> [**Yet@smm4h'22: Improved bert-based classification models with rdrop and polyloss.**](https://aclanthology.org/2022.smm4h-1.28/) **Yan Zhuang**, Yanru Zhang.
-- <span class="accent-text">AAAI 2022 WS </span> [**Yet at Memotion 2.0 2022: Hate speech detection combining bilstm and fully connected layers.**](https://ceur-ws.org/Vol-3199/paper14.pdf) **Yan Zhuang**, Yanru Zhang.
-- <span class="accent-text">AAAI 2022 WS </span> [**Yet at Factify 2022: Unimodal and bimodal roberta-based models for fact checking.**](https://ceur-ws.org/Vol-3199/paper8.pdf) **Yan Zhuang**, Yanru Zhang.
 
 # <i class="fas fa-briefcase"></i> Work Experience
 
