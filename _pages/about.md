@@ -352,30 +352,87 @@ Trustworthy Reasoning
 
 </div>
 
+# <i class="fas fa-briefcase"></i> Professional Experience
 
+<small>
+My research experience spans both academia and industry, with a primary focus on multimodal intelligence, large multimodal models, and real-world AI systems.
+</small>
 
-# <i class="fas fa-briefcase"></i> Work Experience
+### <i class="fas fa-building"></i> Tencent
 
-- *2026.07 - Present*: &nbsp;Research Engineer, <i class="fas fa-building"></i> **Tencent**. Research on <span class="primary-gradient-text">LLM-powered Healthcare Applications</span> and <span class="primary-gradient-text">AI Search</span>.
+**Research Engineer**
 
-# <i class="fas fa-graduation-cap"></i> Educations
-- *2022.09 - 2026.06*: &nbsp;Ph.D. in Computer Science and Technology, <span class="primary-gradient-text">University of Electronic Science and Technology of China</span>. Advisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>.
-- *2019.09 - 2022.06*: &nbsp;M.S. in Computer Technology, <span class="primary-gradient-text">University of Electronic Science and Technology of China</span>. Advisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>.
-- *2015.09 - 2019.06*: &nbsp;B.S. in Information and Computing Science, <span class="primary-gradient-text">Anhui Science and Technology University</span>.
+*Jul. 2026 – Present*
 
-# <i class="fas fa-laptop-code"></i> Internships
-- *2026.01 - 2026.06*: &nbsp;Research Intern, <i class="fas fa-building"></i> **Tencent**. Research on Reinforcement Learning for Multimodal Mathematical Reasoning and MLLM-powered Healthcare Applications.
-- *2022.01 - 2022.06*: &nbsp;Research Intern, <i class="fas fa-gamepad"></i> **NetEase FUXI Laboratory**. Research on Large Language Model Pre-training.
+Working on large multimodal models for healthcare intelligence and next-generation AI search systems. My current research focuses on multimodal reasoning, trustworthy AI, reinforcement learning for reasoning, and practical deployment of multimodal foundation models in real-world applications.
 
-# <i class="fas fa-trophy"></i> Honors and Awards
-- *2026*: &nbsp;UESTC Outstanding Graduate Students</span>.
-- *2026*: &nbsp;UESTC Academic Newcomer Award</span>.
-- *2025*: &nbsp;ACM MM 2025 Social Media Prediction (SMP) Challenge - Image Track: <a href="https://smp-challenge.com/2025/leaderboard.html" class="link-accent">Best Performance Award</a>.
-- *2025*: &nbsp;<span class="accent-text">National Scholarship (Ph.D.)</span>.
-- *2021*: &nbsp;The 7th China International College Students' "Internet+" Innovation and Entrepreneurship Competition: Silver Award.
-- *2020*: &nbsp;"Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling (GMCM): Second Prize.
-- *2017*: &nbsp;<span class="accent-text">National Scholarship (B.S.)</span>.
+### <i class="fas fa-building"></i> Tencent
 
-# <i class="fas fa-users"></i> Professional Service
-- **Journal Reviewer:** IEEE Transactions on Multimedia (TMM 2025-2026), IEEE Transactions on Affective Computing (TAFFC 2026), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2026), Transactions on  Machine Learning Research (TMLR 2026), IEEE Transactions on Vehicular Technology (TVT 2023-2024), Knowledge-Based Systems (KBS 2026)
-- **Conference Reviewer:** CVPR 2026, ICML 2026 (<span class="accent-text">Gold Reviewer Award, Top 25%</span>), NeurIPS 2026
+**Research Intern**
+
+*Jan. 2026 – Jun. 2026*
+
+Conducted research on reinforcement learning for multimodal mathematical reasoning and trustworthy large multimodal models, with applications to healthcare intelligence.
+
+### <i class="fas fa-gamepad"></i> NetEase FUXI Laboratory
+
+**Research Intern**
+
+*Jan. 2022 – Jun. 2022*
+
+Conducted research on large language model pre-training and efficient language representation learning, laying the foundation for subsequent research on multimodal foundation models.
+
+# <i class="fas fa-graduation-cap"></i> Education
+
+- **Ph.D. in Computer Science and Technology**  
+  University of Electronic Science and Technology of China (UESTC)  
+  *Sep. 2022 – Jun. 2026*  
+  Advisor: Prof. Fuji Ren
+
+- **M.S. in Computer Technology**  
+  University of Electronic Science and Technology of China (UESTC)  
+  *Sep. 2019 – Jun. 2022*  
+  Advisor: Prof. Yanru Zhang
+
+- **B.S. in Information and Computing Science**  
+  Anhui Science and Technology University  
+  *Sep. 2015 – Jun. 2019*
+
+  ### Academic Honors
+
+- **National Scholarship (Ph.D.)**, 2025
+- **UESTC Outstanding Graduate**, 2026
+- **UESTC Academic Newcomer Award**, 2026
+- **National Scholarship (B.S.)**, 2017
+
+### Competition Awards
+
+- **Best Performance Award**, ACM Multimedia 2025 Social Media Prediction Challenge (Image Track)
+- Silver Award, China International College Students' "Internet+" Innovation and Entrepreneurship Competition, 2021
+- Second Prize, China Postgraduate Mathematical Contest in Modeling (Huawei Cup), 2020
+
+# <i class="fas fa-users"></i> Professional Activities
+### Journal Reviewing
+- IEEE TMM
+- IEEE TAFFC
+- IEEE TCSVT
+- TMLR
+- KBS
+- IEEE TVT
+
+### Conference Reviewing
+- CVPR 2026
+- ICML 2026 (<span class="accent-text">Gold Reviewer Award, Top 25%</span>)
+- NeurIPS 2026
+
+---
+
+<div align="center">
+
+Thank you for visiting my homepage.
+
+I am always happy to discuss research collaborations, academic exchanges, and opportunities related to multimodal intelligence, large multimodal models, and trustworthy AI.
+
+📍 Beijing, China
+
+</div>
