@@ -239,117 +239,37 @@ My research has evolved around three interconnected directions: multimodal repre
 </small>
 
 <div class="floating-card">
-
-<h3>
-<i class="fas fa-shield-alt"></i>
-Robust Multimodal Intelligence
-</h3>
-
+<h3><i class="fas fa-shield-alt"></i>Robust Multimodal Intelligence</h3>
 <p>
-
-Building robust multimodal learning frameworks capable of handling
-<strong>missing modalities</strong>,
-<strong>noisy observations</strong>,
-and incomplete multimodal information.
-This research line focuses on modality denoising,
-adaptive fusion,
-representation enhancement,
-and knowledge distillation.
-
+Building robust multimodal learning frameworks capable of handling <strong>missing modalities</strong>, <strong>noisy observations</strong>, and incomplete multimodal information. This research line focuses on modality denoising, adaptive fusion, representation enhancement, and knowledge distillation.
 </p>
-
 <p>
-
 Representative works:
-
-<span class="accent-text">
-
-TMDC (AAAI 2026),
-HME (NeurIPS 2025),
-CMAD (ICCV 2025)
-
+<span class="accent-text">TMDC (AAAI 2026), HME (NeurIPS 2025), CMAD (ICCV 2025)
 </span>
-
 </p>
-
 </div>
 
 <div class="floating-card">
-
-<h3>
-
-<i class="fas fa-network-wired"></i>
-
-Multimodal Representation Learning
-
-</h3>
-
+<h3><i class="fas fa-network-wired"></i>Multimodal Representation Learning</h3>
 <p>
-
-Developing effective multimodal representation learning methods through
-contrastive learning,
-cross-modal alignment,
-global-local interaction,
-and relational modeling
-to improve multimodal understanding.
-
+Developing effective multimodal representation learning methods through contrastive learning, cross-modal alignment, global-local interaction, and relational modeling to improve multimodal understanding.
 </p>
-
 <p>
-
-Representative works:
-
-<span class="accent-text">
-
-GLoMo (ACM MM 2024),
-MLCL (TMM 2025),
-IIE (TMM 2025),
-ReNoRD (ICMR 2026)
-
+Representative works: <span class="accent-text"> GLoMo (ACM MM 2024), MLCL (TMM 2025), IIE (TMM 2025), ReNoRD (ICMR 2026)
 </span>
-
 </p>
-
 </div>
 
 <div class="floating-card">
-
-<h3>
-
-<i class="fas fa-robot"></i>
-
-Large Multimodal Models
-
-</h3>
-
+<h3><i class="fas fa-robot"></i>Large Multimodal Models</h3>
 <p>
-
-Exploring reasoning,
-verification,
-and practical deployment of
-large multimodal models,
-with applications to
-mathematical reasoning,
-healthcare intelligence,
-and trustworthy AI systems.
-
+Exploring reasoning, verification, and practical deployment of large multimodal models, with applications to mathematical reasoning, healthcare intelligence, and trustworthy AI systems.
 </p>
-
 <p>
-
-Current topics include:
-
-<span class="accent-text">
-
-RLVR,
-Medical LMMs,
-AI Search,
-Trustworthy Reasoning
-
+Current topics include: <span class="accent-text"> RLVR, Medical LMMs, Trustworthy Reasoning
 </span>
-
 </p>
-
 </div>
 
 # <i class="fas fa-briefcase"></i> Professional Experience
@@ -388,12 +308,10 @@ Conducted research on large language model pre-training and efficient language r
   University of Electronic Science and Technology of China (UESTC)  
   *Sep. 2022 – Jun. 2026*  
   Advisor: Prof. Fuji Ren
-
 - **M.S. in Computer Technology**  
   University of Electronic Science and Technology of China (UESTC)  
   *Sep. 2019 – Jun. 2022*  
   Advisor: Prof. Yanru Zhang
-
 - **B.S. in Information and Computing Science**  
   Anhui Science and Technology University  
   *Sep. 2015 – Jun. 2019*
