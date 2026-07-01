@@ -25,7 +25,7 @@ Previously, I received my Ph.D. in Computer Science and Technology from <i class
 
 <div class="quote-accent">
 
-My research focuses on **Large Multimodal Models (LMMs)** and their real-world applications. My interests include **Multimodal Affective Computing**, **Multimodal Mathematical Reasoning**, **Healthcare Intelligence**, and **Neural Information Retrieval**. More broadly, I am interested in developing reliable, efficient, and trustworthy multimodal intelligent systems capable of understanding, reasoning, and interacting in complex real-world environments.
+My research focuses on <span class="primary-gradient-text">Large Multimodal Models (LMMs)</span> and their real-world applications. My interests include <span class="primary-gradient-text">Multimodal Affective Computing</span>, <span class="primary-gradient-text">Multimodal Mathematical Reasoning</span>, and <span class="primary-gradient-text">Healthcare Intelligence</span>. More broadly, I am interested in developing reliable, efficient, and trustworthy multimodal intelligent systems capable of understanding, reasoning, and interacting in complex real-world environments.
 
 </div>
 
@@ -87,7 +87,7 @@ Reasoning, planning, and reinforcement learning for multimodal agents
 
     <h3>
       <i class="fas fa-heartbeat"></i>
-      Healthcare Intelligence & AI Search
+      Healthcare Intelligence
     </h3>
 
 <ul>
@@ -98,10 +98,6 @@ Reasoning, planning, and reinforcement learning for multimodal agents
 
 <li>
 Clinical decision support and healthcare applications with LMMs
-</li>
-
-<li>
-Neural information retrieval and LLM-powered search systems
 </li>
 
 </ul>
@@ -115,10 +111,6 @@ Neural information retrieval and LLM-powered search systems
 <small>
 Recent research updates, publications, awards, and professional activities.
 </small>
-<details>
-<summary>
-View Earlier News
-</summary>
 - **May 2026** · 🎉 **ReNoRD** has been accepted to **ACM International Conference on Multimedia Retrieval (ICMR 2026)**.
 - **Apr. 2026** · 🎉 **DEJA** has been accepted to **ACL Main 2026**, marking our recent work on trustworthy reasoning for retrieval-augmented generation.
 - **Mar. 2026** · 🎉 Our work **DHM** has been accepted by **Neurocomputing**.
@@ -133,28 +125,83 @@ View Earlier News
 - **Jan. 2025** · 🎉 **ETS-MM** has been accepted to **The Web Conference (WWW 2025)**.
 - **Nov. 2024** · 🎉 Our collaborative work has been accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE)**.
 - **Jul. 2024** · 🎉 **GLoMo** has been accepted to **ACM Multimedia 2024**.
-</details>
 
 
 
-# <i class="fas fa-file-alt"></i> Selected Publications 
+# <i class="fas fa-book-open"></i> Featured Publications
+<small>
+(*denotes joint first-authors. Representative publications on multimodal representation learning, robust multimodal intelligence, large multimodal models, and trustworthy reasoning. Full publication list is available on <a href="https://scholar.google.com.hk/citations?user=DtOl0DkAAAAJ&hl=zh-CN" class="link-accent">Google Scholar</a>.
 
-<small>(*denotes joint first-authors, <a href="https://scholar.google.com.hk/citations?user=DtOl0DkAAAAJ&hl=zh-CN" class="link-accent">Google Scholar</a>)</small>
+</small>
+
 
 <div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">ACL Main 2026</div>
-    <img src='images/acl_main_2026.png' alt="ACL 2026 Paper" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3><a href="https://arxiv.org/pdf/2604.18663" style="color: inherit; text-decoration: none;">Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation</a></h3>
-    <div class="authors">Wentao Zhang, <strong>Yan Zhuang</strong>, Zhuhang Zheng, Mingfei Zhang, Jiawen Deng, Fuji Ren</div>
-    <div class="venue">In The 64th Annual Meeting of the Association for Computational Linguistics (ACL Main 2026)</div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2604.18663" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="links" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-    </div>
-  </div>
+
+<div class='paper-box-image'>
+
+<div class="badge pulse-accent">
+ACL Main 2026
+</div>
+
+<img src='images/acl_main_2026.png'
+alt="DEJA Framework"
+width="100%">
+
+</div>
+
+<div class='paper-box-text'>
+
+<h3>
+
+<a href="https://arxiv.org/pdf/2604.18663"
+style="color:inherit;text-decoration:none;">
+
+Beyond Explicit Refusals:
+Soft-Failure Attacks on Retrieval-Augmented Generation
+
+</a>
+
+</h3>
+
+<div class="authors">
+
+Wentao Zhang,
+<strong>Yan Zhuang</strong>,
+Zhuhang Zheng,
+Mingfei Zhang,
+Jiawen Deng,
+Fuji Ren
+
+</div>
+
+<div class="venue">
+
+Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics
+(<strong>ACL Main 2026</strong>)
+
+</div>
+
+<div class="paper-summary">
+
+Our work investigates previously overlooked soft-failure behaviors in retrieval-augmented generation systems and introduces a new benchmark for evaluating trustworthy multimodal reasoning.
+
+</div>
+
+<div class="links">
+
+<a href="https://arxiv.org/pdf/2604.18663"
+class="btn-accent">
+
+<i class="fas fa-file-alt"></i>
+
+Paper
+
+</a>
+
+</div>
+
+</div>
+
 </div>
 
 <div class='paper-box floating-card'>
