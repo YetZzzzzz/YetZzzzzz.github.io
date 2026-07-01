@@ -278,65 +278,48 @@ Current topics include: <span class="accent-text"> RLVR, Medical LMMs, Trustwort
 My research experience spans both academia and industry, with a primary focus on multimodal intelligence, large multimodal models, and real-world AI systems.
 </small>
 
-### <i class="fas fa-building"></i> Tencent
+### <i class="fas fa-building"></i> Tencent**Research Engineer**
+*Jul. 2026 – Present* Working on large multimodal models for healthcare intelligence and next-generation AI search systems. My current research focuses on multimodal reasoning, trustworthy AI, reinforcement learning for reasoning, and practical deployment of multimodal foundation models in real-world applications.
 
-**Research Engineer**
+### <i class="fas fa-building"></i> Tencent**Research Intern**
+*Jan. 2026 – Jun. 2026* Conducted research on reinforcement learning for multimodal mathematical reasoning and trustworthy large multimodal models, with applications to healthcare intelligence.
 
-*Jul. 2026 – Present*
-
-Working on large multimodal models for healthcare intelligence and next-generation AI search systems. My current research focuses on multimodal reasoning, trustworthy AI, reinforcement learning for reasoning, and practical deployment of multimodal foundation models in real-world applications.
-
-### <i class="fas fa-building"></i> Tencent
-
-**Research Intern**
-
-*Jan. 2026 – Jun. 2026*
-
-Conducted research on reinforcement learning for multimodal mathematical reasoning and trustworthy large multimodal models, with applications to healthcare intelligence.
-
-### <i class="fas fa-gamepad"></i> NetEase FUXI Laboratory
-
-**Research Intern**
-
-*Jan. 2022 – Jun. 2022*
-
-Conducted research on large language model pre-training and efficient language representation learning, laying the foundation for subsequent research on multimodal foundation models.
+### <i class="fas fa-gamepad"></i> NetEase FUXI Laboratory**Research Intern**
+*Jan. 2022 – Jun. 2022* Conducted research on large language model pre-training and efficient language representation learning, laying the foundation for subsequent research on multimodal foundation models.
 
 # <i class="fas fa-graduation-cap"></i> Education
 
 - **Ph.D. in Computer Science and Technology**  
-  University of Electronic Science and Technology of China (UESTC)  
+  University of Electronic Science and Technology of China (UESTC), Advisor: Prof. Fuji Ren
   *Sep. 2022 – Jun. 2026*  
-  Advisor: Prof. Fuji Ren
 - **M.S. in Computer Technology**  
-  University of Electronic Science and Technology of China (UESTC)  
+  University of Electronic Science and Technology of China (UESTC),Advisor: Prof. Yanru Zhang
   *Sep. 2019 – Jun. 2022*  
-  Advisor: Prof. Yanru Zhang
 - **B.S. in Information and Computing Science**  
   Anhui Science and Technology University  
   *Sep. 2015 – Jun. 2019*
 
-  ### Academic Honors
-
-- **National Scholarship (Ph.D.)**, 2025
+# <i class="fas fa-graduation-cap"></i> Honors and Awards
+### Academic Honors
 - **UESTC Outstanding Graduate**, 2026
 - **UESTC Academic Newcomer Award**, 2026
+- **National Scholarship (Ph.D.)**, 2025
 - **National Scholarship (B.S.)**, 2017
 
 ### Competition Awards
-
 - **Best Performance Award**, ACM Multimedia 2025 Social Media Prediction Challenge (Image Track)
 - Silver Award, China International College Students' "Internet+" Innovation and Entrepreneurship Competition, 2021
 - Second Prize, China Postgraduate Mathematical Contest in Modeling (Huawei Cup), 2020
 
 # <i class="fas fa-users"></i> Professional Activities
 ### Journal Reviewing
-- IEEE TMM
-- IEEE TAFFC
-- IEEE TCSVT
-- TMLR
-- KBS
-- IEEE TVT
+- IEEE Transactions on Multimedia (TMM 2025-2026)
+- IEEE Transactions on Affective Computing (TAFFC 2026)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2026)
+- Transactions on  Machine Learning Research (TMLR 2026)
+- Knowledge-Based Systems (KBS 2026)
+- IEEE Transactions on Vehicular Technology (TVT 2023-2024)
+
 
 ### Conference Reviewing
 - CVPR 2026
@@ -350,7 +333,5 @@ Conducted research on large language model pre-training and efficient language r
 Thank you for visiting my homepage.
 
 I am always happy to discuss research collaborations, academic exchanges, and opportunities related to multimodal intelligence, large multimodal models, and trustworthy AI.
-
-📍 Beijing, China
 
 </div>
