@@ -19,9 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Yan Zhuang</span>. I am a Research Engineer at <i class="fas fa-building"></i> **Tencent**, where I work on <span class="primary-gradient-text">Large Multimodal Models (LMMs)</span> for <span class="primary-gradient-text">Healthcare Intelligence</span> and <span class="primary-gradient-text">Neural Search</span>.
-
-Previously, I received my Ph.D. in Computer Science and Technology from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**, advised by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>. Before that, I obtained my M.S. in Computer Technology from **UESTC**, under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>, and my B.S. in Information and Computing Science from <i class="fas fa-university"></i> **Anhui Science and Technology University**.
+My name is <span class="accent-text">Yan Zhuang</span>. I am a Research Engineer at <i class="fas fa-building"></i> **Tencent**, where I work on <span class="primary-gradient-text">Large Multimodal Models (LMMs)</span> for <span class="primary-gradient-text">Healthcare Intelligence</span> and <span class="primary-gradient-text">Neural Search</span>. Previously, I received my Ph.D. in Computer Science and Technology from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**, advised by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>. Before that, I obtained my M.S. in Computer Technology from **UESTC**, under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>, and my B.S. in Information and Computing Science from <i class="fas fa-university"></i> **Anhui Science and Technology University**.
 
 <div class="quote-accent">
 
@@ -119,89 +117,45 @@ Recent research updates, publications, awards, and professional activities.
 - **Jul. 2025** · 🎉 **CMAD** has been accepted to **ICCV 2025**.
 - **Apr. 2025** · 🎉 **FAME** has been accepted to **ACM Multimedia 2025**.
 - **Mar. 2025** · 🎉 **IIE** has been accepted by **IEEE Transactions on Multimedia (TMM)**.
-- **Feb. 2025** · 🎉 **MLCL** has been accepted by **IEEE Transactions on Multimedia (TMM)**.
-- **Jan. 2025** · 🎉 **R3DG** has been accepted by **Research**.
-- **Jan. 2025** · 🎉 Our work on conversational emotion recognition has been accepted by **IEEE Transactions on Affective Computing (TAFFC)**.
-- **Jan. 2025** · 🎉 **ETS-MM** has been accepted to **The Web Conference (WWW 2025)**.
-- **Nov. 2024** · 🎉 Our collaborative work has been accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE)**.
-- **Jul. 2024** · 🎉 **GLoMo** has been accepted to **ACM Multimedia 2024**.
-
-
 
 # <i class="fas fa-book-open"></i> Featured Publications
-<small>
-(*denotes joint first-authors. Representative publications on multimodal representation learning, robust multimodal intelligence, large multimodal models, and trustworthy reasoning. Full publication list is available on <a href="https://scholar.google.com.hk/citations?user=DtOl0DkAAAAJ&hl=zh-CN" class="link-accent">Google Scholar</a>.
-
-</small>
+<small>(*denotes joint first-authors. Representative publications on multimodal representation learning, robust multimodal intelligence, large multimodal models, and trustworthy reasoning. Full publication list is available on <a href="https://scholar.google.com.hk/citations?user=DtOl0DkAAAAJ&hl=zh-CN" class="link-accent">Google Scholar</a>.)</small>
 
 
 <div class='paper-box floating-card'>
-
 <div class='paper-box-image'>
-
 <div class="badge pulse-accent">
 ACL Main 2026
 </div>
-
 <img src='images/acl_main_2026.png'
 alt="DEJA Framework"
 width="100%">
-
 </div>
-
 <div class='paper-box-text'>
-
 <h3>
-
 <a href="https://arxiv.org/pdf/2604.18663"
 style="color:inherit;text-decoration:none;">
-
-Beyond Explicit Refusals:
-Soft-Failure Attacks on Retrieval-Augmented Generation
-
+Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation
 </a>
-
 </h3>
-
 <div class="authors">
-
-Wentao Zhang,
-<strong>Yan Zhuang</strong>,
-Zhuhang Zheng,
-Mingfei Zhang,
-Jiawen Deng,
-Fuji Ren
-
+Wentao Zhang,<strong>Yan Zhuang</strong>,Zhuhang Zheng,Mingfei Zhang,Jiawen Deng,Fuji Ren
 </div>
-
 <div class="venue">
-
 Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics
 (<strong>ACL Main 2026</strong>)
-
 </div>
-
 <div class="paper-summary">
-
 Our work investigates previously overlooked soft-failure behaviors in retrieval-augmented generation systems and introduces a new benchmark for evaluating trustworthy multimodal reasoning.
-
 </div>
-
 <div class="links">
-
 <a href="https://arxiv.org/pdf/2604.18663"
 class="btn-accent">
-
 <i class="fas fa-file-alt"></i>
-
 Paper
-
 </a>
-
 </div>
-
 </div>
-
 </div>
 
 <div class='paper-box floating-card'>
@@ -277,6 +231,128 @@ Paper
 - <span class="accent-text">WWW 2025 </span> [**ETS-MM: A Multi-Modal Social Bot Detection Model Based on Enhanced Textual Semantic Representation.**](https://dl.acm.org/doi/abs/10.1145/3696410.3714551) Wei Li, Jiawen Deng, Jiali You, Yuanyuan He, **Yan Zhuang**, Fuji Ren.
 - <span class="accent-text">ACM MM 2024 </span> [**GLoMo: Global-local modal fusion for multimodal sentiment analysis.**](https://dl.acm.org/doi/abs/10.1145/3664647.3681527) **Yan Zhuang**, Yanru Zhang, Zheng Hu, Xiaoyue Zhang, Jiawen Deng, Fuji Ren. <a href="https://github.com/YetZzzzzz/GLoMo/tree/main" style="text-decoration:none;color:#333;"><i class="fab fa-github"></i></a>
 - <span class="accent-text">IEEE TKDE 2024 </span> [**Hierarchical denoising for robust social recommendation.**](https://ieeexplore.ieee.org/abstract/document/10771708/) Zheng Hu, Satoshi Nakagawa, **Yan Zhuang**, Jiawen Deng, Shimin Cai, Tao Zhou, Fuji Ren.
+
+# <i class="fas fa-project-diagram"></i> Research Projects
+
+<small>
+My research has evolved around three interconnected directions: multimodal representation learning, robust multimodal intelligence, and large multimodal models for reasoning and real-world applications.
+</small>
+
+<div class="floating-card">
+
+<h3>
+<i class="fas fa-shield-alt"></i>
+Robust Multimodal Intelligence
+</h3>
+
+<p>
+
+Building robust multimodal learning frameworks capable of handling
+<strong>missing modalities</strong>,
+<strong>noisy observations</strong>,
+and incomplete multimodal information.
+This research line focuses on modality denoising,
+adaptive fusion,
+representation enhancement,
+and knowledge distillation.
+
+</p>
+
+<p>
+
+Representative works:
+
+<span class="accent-text">
+
+TMDC (AAAI 2026),
+HME (NeurIPS 2025),
+CMAD (ICCV 2025)
+
+</span>
+
+</p>
+
+</div>
+
+<div class="floating-card">
+
+<h3>
+
+<i class="fas fa-network-wired"></i>
+
+Multimodal Representation Learning
+
+</h3>
+
+<p>
+
+Developing effective multimodal representation learning methods through
+contrastive learning,
+cross-modal alignment,
+global-local interaction,
+and relational modeling
+to improve multimodal understanding.
+
+</p>
+
+<p>
+
+Representative works:
+
+<span class="accent-text">
+
+GLoMo (ACM MM 2024),
+MLCL (TMM 2025),
+IIE (TMM 2025),
+ReNoRD (ICMR 2026)
+
+</span>
+
+</p>
+
+</div>
+
+<div class="floating-card">
+
+<h3>
+
+<i class="fas fa-robot"></i>
+
+Large Multimodal Models
+
+</h3>
+
+<p>
+
+Exploring reasoning,
+verification,
+and practical deployment of
+large multimodal models,
+with applications to
+mathematical reasoning,
+healthcare intelligence,
+and trustworthy AI systems.
+
+</p>
+
+<p>
+
+Current topics include:
+
+<span class="accent-text">
+
+RLVR,
+Medical LMMs,
+AI Search,
+Trustworthy Reasoning
+
+</span>
+
+</p>
+
+</div>
+
+
 
 # <i class="fas fa-briefcase"></i> Work Experience
 
