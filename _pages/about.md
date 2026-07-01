@@ -179,6 +179,8 @@ My research interests lie in <span class="primary-gradient-text">MLLM-driven App
 - *2022.01 - 2022.06*: &nbsp;Research Intern, <i class="fas fa-gamepad"></i> **NetEase FUXI Laboratory**. Research on Large Language Model Pre-training.
 
 # <i class="fas fa-trophy"></i> Honors and Awards
+- *2026*: &nbsp;<span class="accent-text">UESTC Outstanding Graduate Students</span>.
+- *2026*: &nbsp;<span class="accent-text">UESTC Academic Newcomer Award</span>.
 - *2025*: &nbsp;ACM MM 2025 Social Media Prediction (SMP) Challenge - Image Track: <a href="https://smp-challenge.com/2025/leaderboard.html" class="link-accent">Best Performance Award</a>.
 - *2025*: &nbsp;<span class="accent-text">National Scholarship (Ph.D.)</span>.
 - *2021*: &nbsp;The 7th China International College Students' "Internet+" Innovation and Entrepreneurship Competition: Silver Award.
