@@ -19,57 +19,123 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Yan Zhuang</span>. I am a Research Engineer at <i class="fas fa-building"></i> **Tencent**, where I work on <span class="primary-gradient-text">LLM-powered Healthcare Applications</span> and <span class="primary-gradient-text">AI Search</span>. I received my Ph.D. in Computer Science and Technology from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)** under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>, and my M.S. in Computer Technology from **UESTC** under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>. I earned my B.S. in Information and Computing Science from <i class="fas fa-university"></i> **Anhui Science and Technology University**.
+My name is <span class="accent-text">Yan Zhuang</span>. I am a Research Engineer at <i class="fas fa-building"></i> **Tencent**, where I work on <span class="primary-gradient-text">Large Multimodal Models (LMMs)</span> for <span class="primary-gradient-text">Healthcare Intelligence</span> and <span class="primary-gradient-text">Neural Search</span>.
+
+Previously, I received my Ph.D. in Computer Science and Technology from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**, advised by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>. Before that, I obtained my M.S. in Computer Technology from **UESTC**, under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>, and my B.S. in Information and Computing Science from <i class="fas fa-university"></i> **Anhui Science and Technology University**.
 
 <div class="quote-accent">
-My research interests lie in <span class="primary-gradient-text">MLLM-driven Applications</span>, including <span class="primary-gradient-text">Multimodal Affective Computing</span>, <span class="primary-gradient-text">Multimodal Mathematical Reasoning</span>, and <span class="primary-gradient-text">Multimodal AI for Healthcare</span>. More recently, I have been devoted to developing practical applications based on Large Multimodal Language Models (MLLMs), with an emphasis on healthcare intelligence and AI-powered search.
+
+My research focuses on **Large Multimodal Models (LMMs)** and their real-world applications. My interests include **Multimodal Affective Computing**, **Multimodal Mathematical Reasoning**, **Healthcare Intelligence**, and **Neural Information Retrieval**. More broadly, I am interested in developing reliable, efficient, and trustworthy multimodal intelligent systems capable of understanding, reasoning, and interacting in complex real-world environments.
+
 </div>
+
 
 <div class="highlight-blocks">
+
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-microscope"></i> Multimodal Affective Computing</h3>
+
+    <h3>
+      <i class="fas fa-brain"></i>
+      Multimodal Affective Intelligence
+    </h3>
+
 <ul>
-<li><span class="accent-text">Multimodal affective understanding</span></li>
-<li>Emotion recognition and sentiment analysis</li>
-<li>Robust multimodal learning under <span class="primary-gradient-text">missing and noisy modalities</span></li>
+
+<li>
+<span class="accent-text">Multimodal sentiment and emotion understanding</span>
+</li>
+
+<li>
+Robust multimodal learning under
+<span class="primary-gradient-text">missing, noisy, and incomplete modalities</span>
+</li>
+
+<li>
+Representation learning, multimodal alignment, and efficient fusion
+</li>
+
 </ul>
+
   </div>
-  
+
   <div class="highlight-block floating-card">
-   <h3><i class="fas fa-square-root-alt"></i> Multimodal Reasoning</h3>
+
+    <h3>
+      <i class="fas fa-lightbulb"></i>
+      Multimodal Reasoning & Foundation Models
+    </h3>
+
 <ul>
-<li><span class="accent-text">RLVR-based reasoning</span></li>
-<li>Multimodal mathematical problem solving</li>
-<li>Reasoning and verification with MLLMs</li>
+
+<li>
+<span class="accent-text">Large multimodal models (LMMs)</span>
+</li>
+
+<li>
+Multimodal mathematical reasoning and self-verifiable inference
+</li>
+
+<li>
+Reasoning, planning, and reinforcement learning for multimodal agents
+</li>
+
 </ul>
+
   </div>
-  
+
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-heartbeat"></i> MLLM Applications</h3>
+
+    <h3>
+      <i class="fas fa-heartbeat"></i>
+      Healthcare Intelligence & AI Search
+    </h3>
+
 <ul>
-<li>MLLM for <span class="accent-text">Healthcare</span></li>
-<li>AI-powered <span class="primary-gradient-text">Search</span></li>
-<li>Large multimodal language model applications</li>
+
+<li>
+<span class="accent-text">Medical multimodal intelligence</span>
+</li>
+
+<li>
+Clinical decision support and healthcare applications with LMMs
+</li>
+
+<li>
+Neural information retrieval and LLM-powered search systems
+</li>
+
 </ul>
+
+  </div>
+
 </div>
 
-</div> 
+# <i class="fas fa-fire"></i> Recent News
 
-# <i class="fas fa-fire"></i> News
-- *2026.05*: &nbsp;🎉🎉 One paper (ReNoRD) is accepted by ACM International Conference on Multimedia Retrieval (ICMR 2026).
-- *2026.04*: &nbsp;🎉🎉 One paper (DEJA) is accepted by The 64th Annual Meeting of the Association for Computational Linguistics (<span class="accent-text">ACL Main 2026</span>).
-- *2026.03*: &nbsp;🎉🎉 One paper (DHM) is accepted by Neurocomputing 2026.
-- *2026.01*: &nbsp;🎉🎉 One paper (TMDC) is accepted by The 40th Annual AAAI Conference on Artificial Intelligence (<span class="accent-text">AAAI 2026</span>).
-- *2025.09*: &nbsp;🎉🎉 One paper (HME) is accepted by The 38th Conference on Neural Information Processing Systems (<span class="accent-text">NeurIPS 2025</span>).
-- *2025.07*: &nbsp;🎉🎉 One paper (CMAD) is accepted by The IEEE/CVF International Conference on Computer Vision (<span class="accent-text">ICCV 2025</span>).
-- *2025.04*: &nbsp;🎉🎉 One paper (FAME) is accepted by ACM Multimedia 2025 (<span class="accent-text">ACM MM 2025</span>).
-- *2025.03*: &nbsp;🎉🎉 One paper (IIE) is accepted by IEEE Transactions on Multimedia (<span class="accent-text">IEEE-TMM 2025</span>).
-- *2025.02*: &nbsp;🎉🎉 One paper (MLCL) is accepted by IEEE Transactions on Multimedia (<span class="accent-text">IEEE-TMM 2025</span>).
-- *2025.01*: &nbsp;🎉🎉 One paper (R3DG) is accepted by Research 2025.
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing (<span class="accent-text">IEEE-TAFFC 2025</span>).
-- *2025.01*: &nbsp;🎉🎉 One paper (ETS-MM) is accepted by The Web Conference 2025 (<span class="accent-text">WWW 2025</span>).
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Knowledge and Data Engineering (<span class="accent-text">IEEE-TKDE 2025</span>).
-- *2024.07*: &nbsp;🎉🎉 One paper (GLoMo) is accepted by ACM Multimedia 2024 (<span class="accent-text">ACM MM 2024</span>).
+<small>
+Recent research updates, publications, awards, and professional activities.
+</small>
+<details>
+<summary>
+View Earlier News
+</summary>
+- **May 2026** · 🎉 **ReNoRD** has been accepted to **ACM International Conference on Multimedia Retrieval (ICMR 2026)**.
+- **Apr. 2026** · 🎉 **DEJA** has been accepted to **ACL Main 2026**, marking our recent work on trustworthy reasoning for retrieval-augmented generation.
+- **Mar. 2026** · 🎉 Our work **DHM** has been accepted by **Neurocomputing**.
+- **Jan. 2026** · 🎉 **TMDC** has been accepted to **AAAI 2026**.
+- **Sep. 2025** · 🎉 **HME** has been accepted to **NeurIPS 2025**.
+- **Jul. 2025** · 🎉 **CMAD** has been accepted to **ICCV 2025**.
+- **Apr. 2025** · 🎉 **FAME** has been accepted to **ACM Multimedia 2025**.
+- **Mar. 2025** · 🎉 **IIE** has been accepted by **IEEE Transactions on Multimedia (TMM)**.
+- **Feb. 2025** · 🎉 **MLCL** has been accepted by **IEEE Transactions on Multimedia (TMM)**.
+- **Jan. 2025** · 🎉 **R3DG** has been accepted by **Research**.
+- **Jan. 2025** · 🎉 Our work on conversational emotion recognition has been accepted by **IEEE Transactions on Affective Computing (TAFFC)**.
+- **Jan. 2025** · 🎉 **ETS-MM** has been accepted to **The Web Conference (WWW 2025)**.
+- **Nov. 2024** · 🎉 Our collaborative work has been accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE)**.
+- **Jul. 2024** · 🎉 **GLoMo** has been accepted to **ACM Multimedia 2024**.
+</details>
+
+
 
 # <i class="fas fa-file-alt"></i> Selected Publications 
 
@@ -179,8 +245,8 @@ My research interests lie in <span class="primary-gradient-text">MLLM-driven App
 - *2022.01 - 2022.06*: &nbsp;Research Intern, <i class="fas fa-gamepad"></i> **NetEase FUXI Laboratory**. Research on Large Language Model Pre-training.
 
 # <i class="fas fa-trophy"></i> Honors and Awards
-- *2026*: &nbsp;<span class="accent-text">UESTC Outstanding Graduate Students</span>.
-- *2026*: &nbsp;<span class="accent-text">UESTC Academic Newcomer Award</span>.
+- *2026*: &nbsp;UESTC Outstanding Graduate Students</span>.
+- *2026*: &nbsp;UESTC Academic Newcomer Award</span>.
 - *2025*: &nbsp;ACM MM 2025 Social Media Prediction (SMP) Challenge - Image Track: <a href="https://smp-challenge.com/2025/leaderboard.html" class="link-accent">Best Performance Award</a>.
 - *2025*: &nbsp;<span class="accent-text">National Scholarship (Ph.D.)</span>.
 - *2021*: &nbsp;The 7th China International College Students' "Internet+" Innovation and Entrepreneurship Competition: Silver Award.
