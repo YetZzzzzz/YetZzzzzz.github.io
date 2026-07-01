@@ -19,41 +19,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Yan Zhuang</span>. I am a Ph.D. candidate in the [Affective Computing and Advanced Intelligence Laboratory](https://www.scse.uestc.edu.cn/info/1028/15498.htm) and [Intelligame Lab](https://intelligame.github.io/) at <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**, advised by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>. I earned my Master's degree in Computer Technology from <i class="fas fa-university"></i> **UESTC** under the guidance of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>, and my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Anhui Science and Technology University**.
+My name is <span class="accent-text">Yan Zhuang</span>. I am a Research Engineer at <i class="fas fa-building"></i> **Tencent**, where I work on <span class="primary-gradient-text">LLM-powered Healthcare Applications</span> and <span class="primary-gradient-text">AI Search</span>. I received my Ph.D. in Computer Science and Technology from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)** under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>, and my M.S. in Computer Technology from **UESTC** under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Anhui Science and Technology University**.
 
 <div class="quote-accent">
-My research interest lies in <span class="primary-gradient-text">Multimodal Intelligence</span>. During my Ph.D., I focused on multimodal representation alignment, fusion, and unified generalization, with applications in affective computing and robust learning under missing/noisy modalities. Going forward, I am pivoting toward <span class="primary-gradient-text">MLLM-driven Applications</span>, including world models, embodied intelligence, and open-ended multimodal reasoning.
+My research interests lie in <span class="primary-gradient-text">MLLM-driven Applications</span>. My research has focused on <span class="primary-gradient-text">Multimodal Affective Computing</span>, <span class="primary-gradient-text">Multimodal Mathematical Reasoning</span>, and <span class="primary-gradient-text">Multimodal AI for Healthcare</span>. More recently, I have been devoted to developing practical applications based on Large Multimodal Language Models (MLLMs), with an emphasis on healthcare intelligence and AI-powered search.
 </div>
-
-<span class="accent-text">**I am actively seeking postdoctoral positions related to MLLM (Multimodal Large Language Models).**</span> I am especially interested in <span class="primary-gradient-text">Embodied Intelligence</span>, <span class="primary-gradient-text">World Models</span>, and <span class="primary-gradient-text">VLA (Vision-Language-Action)</span>. If there are opportunities in **Hong Kong** or **Singapore**, please do not hesitate to contact me!
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-microscope"></i> Multimodal Application</h3>
-    <ul>
-      <li><span class="accent-text">Affective understanding and reasoning</span></li>
-      <li>Robust multimodal application under <span class="primary-gradient-text">missing and noisy </span>signals</li>
-      <li>Multimodal representation <span class="accent-text">alignment</span>, <span class="accent-text">fusion</span>, and <span class="accent-text">unification</span></li>
-    </ul>
+    <h3><i class="fas fa-microscope"></i> Multimodal Affective Computing</h3>
+<ul>
+<li><span class="accent-text">Multimodal affective understanding</span></li>
+<li>Emotion recognition and sentiment analysis</li>
+<li>Robust multimodal learning under <span class="primary-gradient-text">missing and noisy modalities</span></li>
+</ul>
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-robot"></i> RLVR-based Application</h3>
-    <ul>
-      <li><span class="accent-text">Reinforcement Learning with Verifiable Rewards</span></li>
-      <li>Multimodal <span class="primary-gradient-text">mathematical problem solving</span></li>
-      <li>Math verification and reasoning</li>
-    </ul>
+   <h3><i class="fas fa-square-root-alt"></i> Multimodal Reasoning</h3>
+<ul>
+<li><span class="accent-text">RLVR-based reasoning</span></li>
+<li>Multimodal mathematical problem solving</li>
+<li>Reasoning and verification with MLLMs</li>
+</ul>
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-brain"></i> MLLM-based Application</h3>
-    <ul>
-      <li>MLLM for <span class="accent-text">Healthcare</span></li>
-      <li><span class="primary-gradient-text">World Model</span> and Embodied Intelligence</li>
-      <li>Vision-Language-Action (<span class="accent-text">VLA</span>)</li>
-    </ul>
-  </div>
+    <h3><i class="fas fa-heartbeat"></i> MLLM Applications</h3>
+<ul>
+<li>MLLM for <span class="accent-text">Healthcare</span></li>
+<li>AI-powered <span class="primary-gradient-text">Search</span></li>
+<li>Large multimodal language model applications</li>
+</ul>
 </div>
 
 # <i class="fas fa-fire"></i> News
@@ -170,15 +167,18 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 - <span class="accent-text">AAAI 2022 WS </span> [**Yet at Memotion 2.0 2022: Hate speech detection combining bilstm and fully connected layers.**](https://ceur-ws.org/Vol-3199/paper14.pdf) **Yan Zhuang**, Yanru Zhang.
 - <span class="accent-text">AAAI 2022 WS </span> [**Yet at Factify 2022: Unimodal and bimodal roberta-based models for fact checking.**](https://ceur-ws.org/Vol-3199/paper8.pdf) **Yan Zhuang**, Yanru Zhang.
 
+# <i class="fas fa-briefcase"></i> Work Experience
+
+- *2026.07 - Present*: &nbsp;Research Engineer, <i class="fas fa-building"></i> **Tencent**. Research on <span class="primary-gradient-text">LLM-powered Healthcare Applications</span> and <span class="primary-gradient-text">AI Search</span>.
+
 # <i class="fas fa-graduation-cap"></i> Educations
-- *Present*: &nbsp;<span class="accent-text">🔍 Actively seeking a postdoctoral position in <strong>Hong Kong</strong> or <strong>Singapore</strong></span>, focusing on <span class="primary-gradient-text">MLLM</span>, <span class="primary-gradient-text">World Models</span>, <span class="primary-gradient-text">AI for Healthcare</span>, or <span class="primary-gradient-text">Embodied Intelligence</span>.
 - *2022.09 - 2026.06*: &nbsp;Ph.D. in Computer Science and Technology, <span class="primary-gradient-text">University of Electronic Science and Technology of China</span>. Advisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>.
 - *2019.09 - 2022.06*: &nbsp;M.S. in Computer Technology, <span class="primary-gradient-text">University of Electronic Science and Technology of China</span>. Advisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>.
 - *2015.09 - 2019.06*: &nbsp;B.S. in Information and Computing Science, <span class="primary-gradient-text">Anhui Science and Technology University</span>.
 
 # <i class="fas fa-laptop-code"></i> Internships
-- *2026.01 - Present*: &nbsp;Intern, <i class="fas fa-building"></i>**Tencent**: Multimodal Mathematical Reasoning using Reinforcement Learning.
-- *2022.01 - 2022.06*: &nbsp;Research Intern, <i class="fas fa-gamepad"></i> **NetEase FUXI Laboratory**: LLM pre-training.
+- *2026.01 - 2026.06*: &nbsp;Research Intern, <i class="fas fa-building"></i> **Tencent**. Research on Reinforcement Learning for Multimodal Mathematical Reasoning and MLLM-powered Healthcare Applications.
+- *2022.01 - 2022.06*: &nbsp;Research Intern, <i class="fas fa-gamepad"></i> **NetEase FUXI Laboratory**. Research on Large Language Model Pre-training.
 
 # <i class="fas fa-trophy"></i> Honors and Awards
 - *2025*: &nbsp;ACM MM 2025 Social Media Prediction (SMP) Challenge - Image Track: <a href="https://smp-challenge.com/2025/leaderboard.html" class="link-accent">Best Performance Award</a>.
@@ -188,5 +188,5 @@ My research interest lies in <span class="primary-gradient-text">Multimodal Inte
 - *2017*: &nbsp;<span class="accent-text">National Scholarship (B.S.)</span>.
 
 # <i class="fas fa-users"></i> Professional Service
-- **Journal Reviewer:** IEEE Transactions on Multimedia (IEEE-TMM), IEEE Transactions on Affective Computing (IEEE-TAFFC), IEEE Transactions on Circuits and Systems for Video Technology (IEEE-TCSVT), IEEE Transactions on Vehicular Technology (IEEE-TVT)
+- **Journal Reviewer:** IEEE Transactions on Multimedia (TMM 2025-2026), IEEE Transactions on Affective Computing (TAFFC 2026), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2026), Transactions on  Machine Learning Research (TMLR 2026), IEEE Transactions on Vehicular Technology (TVT 2023-2024), Knowledge-Based Systems (KBS 2026)
 - **Conference Reviewer:** CVPR 2026, ICML 2026 (<span class="accent-text">Gold Reviewer Award, Top 25%</span>), NeurIPS 2026
