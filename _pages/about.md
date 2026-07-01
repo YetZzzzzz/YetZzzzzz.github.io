@@ -278,27 +278,26 @@ Current topics include: <span class="accent-text"> RLVR, Medical LMMs, Trustwort
 My research experience spans both academia and industry, with a primary focus on multimodal intelligence, large multimodal models, and real-world AI systems.
 </small>
 
-### <i class="fas fa-building"></i> Tencent**Research Engineer**
-*Jul. 2026 – Present* Working on large multimodal models for healthcare intelligence and next-generation AI search systems. My current research focuses on multimodal reasoning, trustworthy AI, reinforcement learning for reasoning, and practical deployment of multimodal foundation models in real-world applications.
+### *Jul. 2026 – Present* **Research Engineer**: <i class="fas fa-building"></i> Tencent 
+Working on large multimodal models for healthcare intelligence and next-generation AI search systems. My current research focuses on multimodal reasoning, trustworthy AI, reinforcement learning for reasoning, and practical deployment of multimodal foundation models in real-world applications.
 
-### <i class="fas fa-building"></i> Tencent**Research Intern**
-*Jan. 2026 – Jun. 2026* Conducted research on reinforcement learning for multimodal mathematical reasoning and trustworthy large multimodal models, with applications to healthcare intelligence.
+### *Jan. 2026 – Jun. 2026* **Research Intern**: <i class="fas fa-building"></i> Tencent
+Conducted research on reinforcement learning for multimodal mathematical reasoning and trustworthy large multimodal models, with applications to healthcare intelligence.
 
-### <i class="fas fa-gamepad"></i> NetEase FUXI Laboratory**Research Intern**
-*Jan. 2022 – Jun. 2022* Conducted research on large language model pre-training and efficient language representation learning, laying the foundation for subsequent research on multimodal foundation models.
+### *Jan. 2022 – Jun. 2022* **Research Intern**: <i class="fas fa-gamepad"></i> NetEase FUXI Laboratory
+Conducted research on large language model pre-training and efficient language representation learning, laying the foundation for subsequent research on multimodal foundation models.
 
 # <i class="fas fa-graduation-cap"></i> Education
 
-- **Ph.D. in Computer Science and Technology**  
-  University of Electronic Science and Technology of China (UESTC), Advisor: Prof. Fuji Ren
-  *Sep. 2022 – Jun. 2026*  
-- **M.S. in Computer Technology**  
-  University of Electronic Science and Technology of China (UESTC),Advisor: Prof. Yanru Zhang
-  *Sep. 2019 – Jun. 2022*  
-- **B.S. in Information and Computing Science**  
+- *Sep. 2022 – Jun. 2026*  **Ph.D. in Computer Science and Technology**  
+  University of Electronic Science and Technology of China (UESTC), Advisor: Prof. Fuji Ren  
+  
+- *Sep. 2019 – Jun. 2022* **M.S. in Computer Technology**  
+  University of Electronic Science and Technology of China (UESTC),Advisor: Prof. Yanru Zhang  
+   
+- *Sep. 2015 – Jun. 2019* **B.S. in Information and Computing Science**  
   Anhui Science and Technology University  
-  *Sep. 2015 – Jun. 2019*
-
+  
 # <i class="fas fa-graduation-cap"></i> Honors and Awards
 ### Academic Honors
 - **UESTC Outstanding Graduate**, 2026
