@@ -19,10 +19,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Yan Zhuang</span>. I am a Research Engineer at <i class="fas fa-building"></i> **Tencent**, where I work on <span class="primary-gradient-text">LLM-powered Healthcare Applications</span> and <span class="primary-gradient-text">AI Search</span>. I received my Ph.D. in Computer Science and Technology from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)** under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>, and my M.S. in Computer Technology from **UESTC** under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Anhui Science and Technology University**.
+My name is <span class="accent-text">Yan Zhuang</span>. I am a Research Engineer at <i class="fas fa-building"></i> **Tencent**, where I work on <span class="primary-gradient-text">LLM-powered Healthcare Applications</span> and <span class="primary-gradient-text">AI Search</span>. I received my Ph.D. in Computer Science and Technology from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)** under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>, and my M.S. in Computer Technology from **UESTC** under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>. I earned my B.S. in Information and Computing Science from <i class="fas fa-university"></i> **Anhui Science and Technology University**.
 
 <div class="quote-accent">
-My research interests lie in <span class="primary-gradient-text">MLLM-driven Applications</span>. My research has focused on <span class="primary-gradient-text">Multimodal Affective Computing</span>, <span class="primary-gradient-text">Multimodal Mathematical Reasoning</span>, and <span class="primary-gradient-text">Multimodal AI for Healthcare</span>. More recently, I have been devoted to developing practical applications based on Large Multimodal Language Models (MLLMs), with an emphasis on healthcare intelligence and AI-powered search.
+My research interests lie in <span class="primary-gradient-text">MLLM-driven Applications</span>, including <span class="primary-gradient-text">Multimodal Affective Computing</span>, <span class="primary-gradient-text">Multimodal Mathematical Reasoning</span>, and <span class="primary-gradient-text">Multimodal AI for Healthcare</span>. More recently, I have been devoted to developing practical applications based on Large Multimodal Language Models (MLLMs), with an emphasis on healthcare intelligence and AI-powered search.
 </div>
 
 <div class="highlight-blocks">
@@ -52,6 +52,8 @@ My research interests lie in <span class="primary-gradient-text">MLLM-driven App
 <li>Large multimodal language model applications</li>
 </ul>
 </div>
+
+</div> 
 
 # <i class="fas fa-fire"></i> News
 - *2026.05*: &nbsp;🎉🎉 One paper (ReNoRD) is accepted by ACM International Conference on Multimedia Retrieval (ICMR 2026).
