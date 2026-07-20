@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Yan Zhuang</span>. I am a Research Engineer at <i class="fas fa-building"></i> **Tencent**, where I work on <span class="primary-gradient-text">Large Multimodal Models (LMMs)</span> for <span class="primary-gradient-text">Healthcare Intelligence</span> and <span class="primary-gradient-text">Neural Search</span>. Previously, I received my Ph.D. in Computer Science and Technology from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**, advised by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>. Before that, I obtained my M.S. in Computer Technology from **UESTC**, under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>, and my B.S. in Information and Computing Science from <i class="fas fa-university"></i> **Anhui Science and Technology University**.
+My name is <span class="accent-text">Yan Zhuang</span>. I am a Research Engineer at <i class="fas fa-building"></i> **Tencent**, where I work on <span class="primary-gradient-text">Large Multimodal Models (LMMs)</span> for <span class="primary-gradient-text">Deep Research</span>. Previously, I received my Ph.D. in Computer Science and Technology from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**, advised by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=eyLJ0fMAAAAJ" class="link-accent">Fuji Ren</a>. Before that, I obtained my M.S. in Computer Technology from **UESTC**, under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6I1ytegAAAAJ" class="link-accent">Yanru Zhang</a>, and my B.S. in Information and Computing Science from <i class="fas fa-university"></i> **Anhui Science and Technology University**.
 
 <div class="quote-accent">
 
@@ -224,7 +224,7 @@ Paper
 
 - <span class="accent-text">ICMR 2026 </span> **ReNoRD: Learning from Relations under Noisy Pseudo Labels via Relational Distillation for Multimodal Sentiment.** Tiantai Zhai, **Yan Zhuang**, Fuji Ren, Jiawen Deng, Liang Luo.
 - <span class="accent-text">Neurocomputing 2026 </span> [**Decoupled Hypergraph Modeling for Multimodal Sentiment Analysis.**](https://www.sciencedirect.com/science/article/abs/pii/S092523122600576X) Yanping Huang, Jiawen Deng, **Yan Zhuang**, Jiali You, Qian Liu, Fuji Ren.
-- <span class="accent-text">ACM MM 2025 </span> [**FAME: Fusion-Aware Multi-modal Ensemble for Social Media Popularity Prediction.**](https://dl.acm.org/doi/abs/10.1145/3746027.3763759) **Yan Zhuang**, Wei Bai, Yanru Zhang, Minhao Liu, Jiawen Deng, Fuji Ren.
+- <span class="accent-text">ACM MM 2025 Grand Challenge </span> [**FAME: Fusion-Aware Multi-modal Ensemble for Social Media Popularity Prediction.**](https://dl.acm.org/doi/abs/10.1145/3746027.3763759) **Yan Zhuang**, Wei Bai, Yanru Zhang, Minhao Liu, Jiawen Deng, Fuji Ren.
 - <span class="accent-text">IEEE TAFFC 2025 </span> [**Enhanced Emotion Recognition in Conversations through Hybrid Context Encoding and Latent Dependency Mining.**](https://ieeexplore.ieee.org/abstract/document/11134050) Zheng Hu, Jiawen Deng, Satoshi Nakagawa, **Yan Zhuang**, Xiaoyue Zhang, Shimin Cai, Fuji Ren.
 - <span class="accent-text">IEEE TMM 2025 </span> [**Multi-Level Contrastive Learning for Multimodal Sentiment Analysis.**](https://ieeexplore.ieee.org/abstract/document/11175557) **Yan Zhuang**, Wei Bai, Yanru Zhang, Jiawen Deng, Zheng Hu, Xiaoyue Zhang, Fuji Ren. <a href="https://github.com/YetZzzzzz/MLCL" style="text-decoration:none;color:#333;"><i class="fab fa-github"></i></a>
 - <span class="accent-text">Research 2025 </span> [**R3DG: Retrieve, Rank and Reconstruction with Different Granularities for Multimodal Sentiment Analysis.**](https://spj.science.org/doi/full/10.34133/research.0729) **Yan Zhuang**, Yanru Zhang, Jiawen Deng, Fuji Ren. <a href="https://github.com/YetZzzzzz/R3DG" style="text-decoration:none;color:#333;"><i class="fab fa-github"></i></a>
@@ -245,7 +245,7 @@ Building robust multimodal learning frameworks capable of handling <strong>missi
 </p>
 <p>
 Representative works:
-<span class="accent-text">TMDC (AAAI 2026), HME (NeurIPS 2025), CMAD (ICCV 2025)
+<span class="accent-text">TMDC (AAAI 2026), HME (NeurIPS 2025), CMAD (ICCV 2025), IIE (TMM 2025)
 </span>
 </p>
 </div>
@@ -256,7 +256,7 @@ Representative works:
 Developing effective multimodal representation learning methods through contrastive learning, cross-modal alignment, global-local interaction, and relational modeling to improve multimodal understanding.
 </p>
 <p>
-Representative works: <span class="accent-text"> GLoMo (ACM MM 2024), MLCL (TMM 2025), IIE (TMM 2025), ReNoRD (ICMR 2026)
+Representative works: <span class="accent-text"> FAME (ACM MM 2025 Grand Challenge), MLCL (TMM 2025), GLoMo (ACM MM 2024)
 </span>
 </p>
 </div>
@@ -278,24 +278,19 @@ Current topics include: <span class="accent-text"> RLVR, Medical LMMs, Trustwort
 My research experience spans both academia and industry, with a primary focus on multimodal intelligence, large multimodal models, and real-world AI systems.
 </small>
 
-### *Jul. 2026 – Present* **Research Engineer**: <i class="fas fa-building"></i> Tencent 
-Working on large multimodal models for healthcare intelligence and next-generation AI search systems. My current research focuses on multimodal reasoning, trustworthy AI, reinforcement learning for reasoning, and practical deployment of multimodal foundation models in real-world applications.
-
-### *Jan. 2026 – Jun. 2026* **Research Intern**: <i class="fas fa-building"></i> Tencent
+### *Jan. 2026 – Jun. 2026:* **Research Engineer** in <i class="fas fa-building"></i> Tencent
 Conducted research on reinforcement learning for multimodal mathematical reasoning and trustworthy large multimodal models, with applications to healthcare intelligence.
 
-### *Jan. 2022 – Jun. 2022* **Research Intern**: <i class="fas fa-gamepad"></i> NetEase FUXI Laboratory
+### *Jan. 2022 – Jun. 2022:* **Research Intern** in <i class="fas fa-gamepad"></i> NetEase FUXI Laboratory
 Conducted research on large language model pre-training and efficient language representation learning, laying the foundation for subsequent research on multimodal foundation models.
 
 # <i class="fas fa-graduation-cap"></i> Education
 
-- *Sep. 2022 – Jun. 2026*  **Ph.D. in Computer Science and Technology**  
+- *Sep. 2022 – Jun. 2026:*  **Ph.D. in Computer Science and Technology**  
   University of Electronic Science and Technology of China (UESTC), Advisor: Prof. Fuji Ren  
-  
-- *Sep. 2019 – Jun. 2022* **M.S. in Computer Technology**  
+- *Sep. 2019 – Jun. 2022:* **M.S. in Computer Technology**  
   University of Electronic Science and Technology of China (UESTC),Advisor: Prof. Yanru Zhang  
-   
-- *Sep. 2015 – Jun. 2019* **B.S. in Information and Computing Science**  
+- *Sep. 2015 – Jun. 2019:* **B.S. in Information and Computing Science**  
   Anhui Science and Technology University  
   
 # <i class="fas fa-graduation-cap"></i> Honors and Awards
@@ -306,7 +301,7 @@ Conducted research on large language model pre-training and efficient language r
 - **National Scholarship (B.S.)**, 2017
 
 ### Competition Awards
-- **Best Performance Award**, ACM Multimedia 2025 Social Media Prediction Challenge (Image Track)
+- Best Performance Award, ACM Multimedia 2025 Social Media Prediction Challenge (Image Track)
 - Silver Award, China International College Students' "Internet+" Innovation and Entrepreneurship Competition, 2021
 - Second Prize, China Postgraduate Mathematical Contest in Modeling (Huawei Cup), 2020
 
@@ -321,9 +316,10 @@ Conducted research on large language model pre-training and efficient language r
 
 
 ### Conference Reviewing
-- CVPR 2026
-- ICML 2026 (<span class="accent-text">Gold Reviewer Award, Top 25%</span>)
+- AAAI 2027
 - NeurIPS 2026
+- ICML 2026 (<span class="accent-text">Gold Reviewer Award, Top 25%</span>)
+- CVPR 2026
 
 ---
 
