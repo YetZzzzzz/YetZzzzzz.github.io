@@ -1,4 +1,3 @@
-```markdown
 permalink: /
 
 title: ""
@@ -199,4 +198,3 @@ Conducted research on **large language model pre-training and efficient language
 Thank you for visiting my homepage.
 
 I am always happy to discuss **research collaborations, academic exchanges, and opportunities** related to **multimodal intelligence and self-evolving large multimodal models**. Please feel free to contact me at [**delecisz@gmail.com**](mailto:delecisz@gmail.com).
-```
