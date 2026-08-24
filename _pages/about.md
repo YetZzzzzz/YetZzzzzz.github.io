@@ -22,7 +22,7 @@ redirect_from:
 
 <div class="quote-accent">
 
-His research focuses on **self-evolving LLMs and LMMs** and their real-world applications, with broad interests in **multimodal intelligence, intelligent agents, and evolutionary approaches for continuous model improvement**. His previous research also includes **Multimodal Affective Computing** and **robust multimodal learning**.
+His research focuses on self-evolving LLMs and their real-world applications, with broad interests in multimodal intelligence, intelligent agents, and evolutionary approaches for continuous model improvement. His previous research also includes Multimodal Affective Computing and Robust Multimodal Learning.
 
 </div>
 
@@ -34,13 +34,13 @@ Recent research updates, publications, awards, and professional activities.
 </small>
 - **Aug 2026** · 🎉 **MAPS** has been accepted to **EMNLP Main 2026**.
 - **Aug 2026** · 🎉 **MF-CC** has been accepted to **Computers & Security**.
-- **May 2026** · 🎉 **ReNoRD** has been accepted to **ACM International Conference on Multimedia Retrieval (ICMR 2026)**.
+- **May 2026** · 🎉 **ReNoRD** has been accepted to **ICMR 2026**.
 - **Apr. 2026** · 🎉 **DEJA** has been accepted to **ACL Main 2026**.
 - **Mar. 2026** · 🎉 Our work **DHM** has been accepted by **Neurocomputing**.
 - **Jan. 2026** · 🎉 **TMDC** has been accepted to **AAAI 2026**.
 - **Sep. 2025** · 🎉 **HME** has been accepted to **NeurIPS 2025**.
 - **Jul. 2025** · 🎉 **CMAD** has been accepted to **ICCV 2025**.
-- **Apr. 2025** · 🎉 **FAME** has been accepted to **ACM Multimedia 2025**.
+- **Apr. 2025** · 🎉 **FAME** has been accepted to **ACM MM Grand Challenge 2025**.
 - **Mar. 2025** · 🎉 **IIE** has been accepted by **IEEE Transactions on Multimedia (TMM)**.
 
 # <i class="fas fa-book-open"></i> Featured Publications
@@ -58,11 +58,7 @@ width="100%">
 </div>
 <div class='paper-box-text'>
 <h3>
-<a href="https://arxiv.org/pdf/2604.18663"
-style="color:inherit;text-decoration:none;">
-Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation
-</a>
-</h3>
+<a href="https://arxiv.org/pdf/2604.18663" style="color:inherit;text-decoration:none;">Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation</a></h3>
 <div class="authors">
 Wentao Zhang,<strong>Yan Zhuang</strong>,Zhuhang Zheng,Mingfei Zhang,Jiawen Deng,Fuji Ren
 </div>
@@ -157,56 +153,19 @@ Paper
 - <span class="accent-text">ACM MM 2024 </span> [**GLoMo: Global-local modal fusion for multimodal sentiment analysis.**](https://dl.acm.org/doi/abs/10.1145/3664647.3681527) **Yan Zhuang**, Yanru Zhang, Zheng Hu, Xiaoyue Zhang, Jiawen Deng, Fuji Ren. <a href="https://github.com/YetZzzzzz/GLoMo/tree/main" style="text-decoration:none;color:#333;"><i class="fab fa-github"></i></a>
 - <span class="accent-text">IEEE TKDE 2024 </span> [**Hierarchical denoising for robust social recommendation.**](https://ieeexplore.ieee.org/abstract/document/10771708/) Zheng Hu, Satoshi Nakagawa, **Yan Zhuang**, Jiawen Deng, Shimin Cai, Tao Zhou, Fuji Ren.
 
-# <i class="fas fa-project-diagram"></i> Research Projects
-
-<small>
-My research has evolved around three interconnected directions: multimodal representation learning, robust multimodal intelligence, and large multimodal models for reasoning and real-world applications.
-</small>
-
-<div class="floating-card">
-<h3><i class="fas fa-shield-alt"></i>Robust Multimodal Intelligence</h3>
-<p>
-Building robust multimodal learning frameworks capable of handling <strong>missing modalities</strong>, <strong>noisy observations</strong>, and incomplete multimodal information. This research line focuses on modality denoising, adaptive fusion, representation enhancement, and knowledge distillation.
-</p>
-<p>
-Representative works:
-<span class="accent-text">TMDC (AAAI 2026), HME (NeurIPS 2025), CMAD (ICCV 2025), IIE (TMM 2025)
-</span>
-</p>
-</div>
-
-<div class="floating-card">
-<h3><i class="fas fa-network-wired"></i>Multimodal Representation Learning</h3>
-<p>
-Developing effective multimodal representation learning methods through contrastive learning, cross-modal alignment, global-local interaction, and relational modeling to improve multimodal understanding.
-</p>
-<p>
-Representative works: <span class="accent-text"> FAME (ACM MM 2025 Grand Challenge), MLCL (TMM 2025), GLoMo (ACM MM 2024)
-</span>
-</p>
-</div>
-
-<div class="floating-card">
-<h3><i class="fas fa-robot"></i>Large Multimodal Models</h3>
-<p>
-Exploring reasoning, verification, and practical deployment of large multimodal models, with applications to mathematical reasoning, healthcare intelligence, and trustworthy AI systems.
-</p>
-<p>
-Current topics include: <span class="accent-text"> RLVR, Medical LMMs, Trustworthy Reasoning
-</span>
-</p>
-</div>
-
 # <i class="fas fa-briefcase"></i> Professional Experience
 
 <small>
-My research experience spans both academia and industry, with a primary focus on multimodal intelligence, large multimodal models, and real-world AI systems.
+His research experience spans both academia and industry, with a primary focus on multimodal intelligence, large language and multimodal models, real-world and self-evolving AI systems.
 </small>
 
-### *Jan. 2026 – Jun. 2026:* **Research Engineer** in <i class="fas fa-building"></i> Tencent
-Conducted research on reinforcement learning for multimodal mathematical reasoning and trustworthy large multimodal models, with applications to healthcare intelligence.
+### *Sep. 2026 – :* **Postdoctoral Fellow** in <i class="fas fa-university"></i>[The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/)
+Conducting research on **self-evolving LLMs and LMMs, intelligent agents, and the integration of evolutionary algorithms with large models**, with a focus on developing adaptive and continuously improving intelligent systems.
 
-### *Jan. 2022 – Jun. 2022:* **Research Intern** in <i class="fas fa-gamepad"></i> NetEase FUXI Laboratory
+### *Jan. 2026 – Sep. 2026:* **Research Engineer** in <i class="fas fa-building"></i> [Tencent](https://www.tencent.com/zh-cn/)
+Conducted research on reinforcement learning for multimodal mathematical reasoning.
+
+### *Jan. 2022 – Jun. 2022:* **Research Intern** in <i class="fas fa-gamepad"></i> [NetEase FUXI Laboratory](https://fuxi.163.com/)
 Conducted research on large language model pre-training and efficient language representation learning, laying the foundation for subsequent research on multimodal foundation models.
 
 # <i class="fas fa-graduation-cap"></i> Education
@@ -214,7 +173,7 @@ Conducted research on large language model pre-training and efficient language r
 - *Sep. 2022 – Jun. 2026:*  **Ph.D. in Computer Science and Technology**  
   University of Electronic Science and Technology of China (UESTC), Advisor: Prof. Fuji Ren  
 - *Sep. 2019 – Jun. 2022:* **M.S. in Computer Technology**  
-  University of Electronic Science and Technology of China (UESTC),Advisor: Prof. Yanru Zhang  
+  University of Electronic Science and Technology of China (UESTC), Advisor: Prof. Yanru Zhang  
 - *Sep. 2015 – Jun. 2019:* **B.S. in Information and Computing Science**  
   Anhui Science and Technology University  
   
@@ -252,6 +211,6 @@ Conducted research on large language model pre-training and efficient language r
 
 Thank you for visiting my homepage.
 
-I am always happy to discuss research collaborations, academic exchanges, and opportunities related to multimodal intelligence, large multimodal models, and trustworthy AI.
+I am always happy to discuss research collaborations, academic exchanges, and opportunities related to multimodal intelligence, self-evolving LLMs and LMMs, and intelligent agents. Please feel free to contact me at [**delecisz@gmail.com**](mailto:delecisz@gmail.com).
 
 </div>
