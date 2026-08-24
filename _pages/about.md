@@ -36,7 +36,7 @@ Recent research updates, publications, awards, and professional activities.
 - **Aug 2026** · 🎉 **MF-CC** has been accepted to **Computers & Security**.
 - **May 2026** · 🎉 **ReNoRD** has been accepted to **ICMR 2026**.
 - **Apr. 2026** · 🎉 **DEJA** has been accepted to **ACL Main 2026**.
-- **Mar. 2026** · 🎉 Our work **DHM** has been accepted by **Neurocomputing**.
+- **Mar. 2026** · 🎉 **DHM** has been accepted by **Neurocomputing**.
 - **Jan. 2026** · 🎉 **TMDC** has been accepted to **AAAI 2026**.
 - **Sep. 2025** · 🎉 **HME** has been accepted to **NeurIPS 2025**.
 - **Jul. 2025** · 🎉 **CMAD** has been accepted to **ICCV 2025**.
