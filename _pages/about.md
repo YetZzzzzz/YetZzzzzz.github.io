@@ -211,6 +211,6 @@ Conducted research on large language model pre-training and efficient language r
 
 Thank you for visiting my homepage.
 
-I am always happy to discuss research collaborations, academic exchanges, and opportunities related to multimodal intelligence, self-evolving LLMs and LMMs, and intelligent agents. Please feel free to contact me at [**delecisz@gmail.com**](mailto:delecisz@gmail.com).
+I am always happy to discuss research collaborations, academic exchanges, and opportunities related to multimodal intelligence, self-evolving LLMs and LMMs, and intelligent agents. Please feel free to contact me at delecisz@gmail.com.
 
 </div>
