@@ -40,8 +40,6 @@ Recent research updates, publications, awards, and professional activities.
 - **Jan. 2026** · 🎉 **TMDC** has been accepted to **AAAI 2026**.
 - **Sep. 2025** · 🎉 **HME** has been accepted to **NeurIPS 2025**.
 - **Jul. 2025** · 🎉 **CMAD** has been accepted to **ICCV 2025**.
-- **Apr. 2025** · 🎉 **FAME** has been accepted to **ACM MM Grand Challenge 2025**.
-- **Mar. 2025** · 🎉 **IIE** has been accepted by **IEEE Transactions on Multimedia (TMM)**.
 
 # <i class="fas fa-book-open"></i> Featured Publications
 <small>(*denotes joint first-authors. Representative publications on multimodal representation learning, robust multimodal intelligence, large multimodal models, and trustworthy reasoning. Full publication list is available on <a href="https://scholar.google.com.hk/citations?user=DtOl0DkAAAAJ&hl=zh-CN" class="link-accent">Google Scholar</a>.)</small>
@@ -143,6 +141,8 @@ Paper
   </div>
 </div>
 
+- <span class="accent-text">EMNLP Main 2026</span> **Seeing is Believing: Benchmarking and Mitigating the Interference of Language Priors on Visual Perception in MLLMs.** Li Ma, **Yan Zhuang**, Jiawen Deng, Fuji Ren.
+- <span class="accent-text">Computers & Security 2026 </span> **MC-FF: A Multi-Community Feature Fusion Framework for Social Bot Detection.** Wei Li, Jiawen Deng, Jiali You, Yuanyuan He, **Yan Zhuang**, Fuji Ren.
 - <span class="accent-text">ICMR 2026 </span> **ReNoRD: Learning from Relations under Noisy Pseudo Labels via Relational Distillation for Multimodal Sentiment.** Tiantai Zhai, **Yan Zhuang**, Fuji Ren, Jiawen Deng, Liang Luo.
 - <span class="accent-text">Neurocomputing 2026 </span> [**Decoupled Hypergraph Modeling for Multimodal Sentiment Analysis.**](https://www.sciencedirect.com/science/article/abs/pii/S092523122600576X) Yanping Huang, Jiawen Deng, **Yan Zhuang**, Jiali You, Qian Liu, Fuji Ren.
 - <span class="accent-text">ACM MM 2025 Grand Challenge </span> [**FAME: Fusion-Aware Multi-modal Ensemble for Social Media Popularity Prediction.**](https://dl.acm.org/doi/abs/10.1145/3746027.3763759) **Yan Zhuang**, Wei Bai, Yanru Zhang, Minhao Liu, Jiawen Deng, Fuji Ren.
