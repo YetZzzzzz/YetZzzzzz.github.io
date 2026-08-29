@@ -22,7 +22,7 @@ redirect_from:
 
 <div class="quote-accent">
 
-His research focuses on self-evolving LLMs and their real-world applications, with broad interests in multimodal intelligence, intelligent agents, and evolutionary approaches for continuous model improvement. His previous research also includes Multimodal Affective Computing and Robust Multimodal Learning.
+His research focuses on Self-Evolving LLMs and their real-world applications, with broad interests in Multimodal Intelligence, Intelligent Agents, and Evolutionary Strategies for continuous model improvement. His previous research also includes Multimodal Affective Computing and Robust Multimodal Learning.
 
 </div>
 
@@ -42,8 +42,7 @@ Recent research updates, publications, awards, and professional activities.
 - **Jul. 2025** · 🎉 **CMAD** has been accepted to **ICCV 2025**.
 
 # <i class="fas fa-book-open"></i> Featured Publications
-<small>(*denotes joint first-authors. Representative publications on multimodal representation learning, robust multimodal intelligence, large multimodal models, and trustworthy reasoning. Full publication list is available on <a href="https://scholar.google.com.hk/citations?user=DtOl0DkAAAAJ&hl=zh-CN" class="link-accent">Google Scholar</a>.)</small>
-
+<small>(*denotes joint first-authors. Representative publications on Multimodal Representation Learning, Robust Multimodal Intelligence, and LLM Applications. Full publication list is available on <a href="https://scholar.google.com.hk/citations?user=DtOl0DkAAAAJ&hl=zh-CN" class="link-accent">Google Scholar</a>.)</small>
 
 <div class='paper-box floating-card'>
 <div class='paper-box-image'>
@@ -160,13 +159,13 @@ His research experience spans both academia and industry, with a primary focus o
 </small>
 
 ### *Sep. 2026 – :* **Postdoctoral Fellow** in <i class="fas fa-university"></i>[The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/)
-Conducting research on **self-evolving LLMs and LMMs, intelligent agents, and the integration of evolutionary algorithms with large models**, with a focus on developing adaptive and continuously improving intelligent systems.
+Conducting research on **self-evolving LLMs, intelligent agents, and the integration of evolutionary strategies with LLMs**, with a focus on developing adaptive and continuously improving intelligent systems.
 
 ### *Jan. 2026 – Sep. 2026:* **Research Engineer** in <i class="fas fa-building"></i> [Tencent](https://www.tencent.com/zh-cn/)
 Conducted research on reinforcement learning for multimodal mathematical reasoning.
 
 ### *Jan. 2022 – Jun. 2022:* **Research Intern** in <i class="fas fa-gamepad"></i> [NetEase FUXI Laboratory](https://fuxi.163.com/)
-Conducted research on large language model pre-training and efficient language representation learning, laying the foundation for subsequent research on multimodal foundation models.
+Conducted research on large language model pre-training and efficient language representation learning.
 
 # <i class="fas fa-graduation-cap"></i> Education
 
@@ -185,7 +184,7 @@ Conducted research on large language model pre-training and efficient language r
 - **National Scholarship (B.S.)**, 2017
 
 ### Competition Awards
-- Best Performance Award, ACM Multimedia 2025 Social Media Prediction Challenge (Image Track)
+- Best Performance Award, ACM Multimedia 2025 Social Media Prediction Challenge (Image Track), 2025
 - Silver Award, China International College Students' "Internet+" Innovation and Entrepreneurship Competition, 2021
 - Second Prize, China Postgraduate Mathematical Contest in Modeling (Huawei Cup), 2020
 
