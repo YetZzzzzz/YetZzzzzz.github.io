@@ -192,24 +192,11 @@ Conducted research on large language model pre-training and efficient language r
 
 # <i class="fas fa-users"></i> Professional Activities
 ### Journal Reviewing
-- Pattern Recognition (PR 2026)
-- Transactions on  Machine Learning Research (TMLR 2026)
-- IEEE Transactions on Affective Computing (TAFFC 2026)
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2026)
-- - IEEE Transactions on Multimedia (TMM 2025-2026)
-- Knowledge-Based Systems (KBS 2026)
-- IEEE Transactions on Vehicular Technology (TVT 2023-2024)
-
-
+Pattern Recognition (PR 2026), Transactions on  Machine Learning Research (TMLR 2026), IEEE Transactions on Affective Computing (TAFFC 2026), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2026), IEEE Transactions on Multimedia (TMM 2025-2026), Knowledge-Based Systems (KBS 2026), IEEE Transactions on Vehicular Technology (TVT 2023-2024)
 
 ### Conference Reviewing
-- ICLR 2027
-- AAAI 2027
-- NeurIPS 2026
-- ICML 2026 (<span class="accent-text">Gold Reviewer Award, Top 25%</span>)
-- CVPR 2026
 
-
+ICLR 2027, AAAI 2027, NeurIPS 2026, ICML 2026 (<span class="accent-text">Gold Reviewer Award, Top 25%</span>), CVPR 2026
 ---
 
 <div align="center">
