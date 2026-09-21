@@ -198,6 +198,7 @@ Conducted research on large language model pre-training and efficient language r
 - Transactions on  Machine Learning Research (TMLR 2026)
 - Knowledge-Based Systems (KBS 2026)
 - IEEE Transactions on Vehicular Technology (TVT 2023-2024)
+- Pattern Recognition (PR 2026)
 
 
 ### Conference Reviewing
@@ -205,6 +206,7 @@ Conducted research on large language model pre-training and efficient language r
 - NeurIPS 2026
 - ICML 2026 (<span class="accent-text">Gold Reviewer Award, Top 25%</span>)
 - CVPR 2026
+- ICLR 2027
 
 ---
 
