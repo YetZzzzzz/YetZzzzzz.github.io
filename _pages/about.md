@@ -186,6 +186,7 @@ Conducted research on large language model pre-training and efficient language r
 - **National Scholarship (B.S.)**, 2017
 
 ### Competition Awards
+- Best Performance Award, ACM Multimedia 2026 Social Media Prediction Challenge (Image Track), 2026
 - Best Performance Award, ACM Multimedia 2025 Social Media Prediction Challenge (Image Track), 2025
 - Silver Award, China International College Students' "Internet+" Innovation and Entrepreneurship Competition, 2021
 - Second Prize, China Postgraduate Mathematical Contest in Modeling (Huawei Cup), 2020
